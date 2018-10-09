@@ -1,0 +1,761 @@
+Year,Title,Authors,Citations,Domain,Definition
+2007,Integrated innate and adaptive artificial immune systems applied to process anomaly detection,Jamie Paul Twycross,77,ids,similarity
+2007,Anomaly detection in a mobile communication network,"Alec Pawling, Nitesh V. Chawla, Gregory R. Madey",39,gis,cluster
+2007,An overview of anomaly detection techniques: Existing solutions and latest technological trends,"Animesh Patcha, Jung-Min Park",1220,ids,n/a
+2007,Network anomaly detection with incomplete audit data,"Animesh Patcha, Jung-Min Park",43,ids,likelihood
+2007,Anomaly detection in TCP/IP networks using immune systems paradigm,"Franciszek Seredynski, Pascal Bouvry",41,ids,similarity
+2007,Network anomaly detection using nonextensive entropy,"Artur Ziviani, Antônio Tadeu A. Gomes, Marcelo L. Monsores, Paulo S. S. Rodrigues",67,ids,likelihood
+2007,Anomaly detection in data represented as graphs,"William Eberle, Lawrence B. Holder",102,cross,n/a
+2007,A hybrid data mining anomaly detection technique in ad hoc networks,"Yu Liu, Yang Li, Hong Man, Wei Jiang",22,ids,rule
+2007,Anomaly detection in web documents using crisp and fuzzy-based cosine clustering methodology,"Menahem Friedman, Mark Last, Yaniv Makover, Abraham Kandel",38,cross,cluster
+2007,A hybrid machine learning approach to network anomaly detection,"Taeshik Shon, Jongsub Moon",275,ids,model
+2007,Adaptive real-time anomaly detection with incremental clustering,"Kalle Burbeck, Simin Nadjm-Tehrani",59,ids,cluster
+2007,Robust Fundamental Matrix Estimation with Accurate Outlier Detection,"Jing-Fu Huang, Shang-Hong Lai, Chia-Ming Cheng",23,remote,model
+2007,Coevolutionary-based Mechanisms for Network Anomaly Detection,"Marek Ostaszewski, Franciszek Seredynski, Pascal Bouvry",29,ids,similarity
+2007,Adaptive anomaly detection with evolving connectionist systems,"Yihua Liao, V. Rao Vemuri, Alejandro Pasos",48,ids,model
+2007,Automatic outlier detection for time series: an application to sensor data,"Sabyasachi Basu, Martin Meckesheimer",135,sense,frequency
+2007,"Capabilities of outlier detection schemes in large datasets, framework and methodologies","Jian Tang, Zhixiang Chen, Ada Wai-Chee Fu, David W. Cheung",73,cross,similarity
+2007,Kernel Eigenspace Separation Transform for Subspace Anomaly Detection in Hyperspectral Imagery,"Hirsh R. Goldberg, Heesung Kwon, Nasser M. Nasrabadi",35,remote,model
+2007,Outliers Detection in Multivariate Time Series by Independent Component Analysis,"Roberto P. Baragona, Francesco Battaglia",62,cross,model
+2007,Genetic-fuzzy rule mining approach and evaluation of feature selection techniques for anomaly intrusion detection,"Chi-Ho Tsang, Sam Kwong, Hanli Wang",204,ids,rule
+2007,A Novel Approach to Noise Clustering for Outlier Detection,"Frank Rehm, Frank Klawonn, Rudolf Kruse",68,cross,cluster
+2007,A Time-Efficient Method for Anomaly Detection in Hyperspectral Images,"Olga Duran, Maria Petrou",60,remote,cluster
+2007,Anomaly Detection Based on Wavelet Domain GARCH Random Field Modeling,"Amir Noiboar, Israel Cohen",38,cross,likelihood
+2007,K-Means+ID3: A Novel Method for Supervised Anomaly Detection by Cascading K-Means Clustering and ID3 Decision Tree Learning Methods,"Shekhar R. Gaddam, Vir V. Phoha, Kiran S. Balagani",147,cross,n/a
+2007,Conditional Anomaly Detection,"Xiuyao Song, Mingxi Wu, Christopher M. Jermaine, Sanjay Ranka",227,cross,likelihood
+2007,Outlier Detection and Handling for Robust 3-D Active Shape Models Search,"Karim Lekadir, Robert D. Merrifield, Guang-Zhong Yang",68,others,likelihood
+2007,Outlier detection by logic programming,"Fabrizio Angiulli, Gianluigi Greco, Luigi Palopoli",21,cross,n/a
+2007,CFAR Outlier Detection With Forward Methods,"Janne J. Lehtomäki, Johanna Vartiainen, Markku J. Juntti, Harri Saarnisaari",39,cross,likelihood
+2007,Unsupervised Outlier Detection in Sensor Networks Using Aggregation Tree,"Kejia Zhang, Shengfei Shi, Hong Gao, Jianzhong Li",86,sense,similarity
+2007,Evidence-based Anomaly Detection in Clinical Domains,"Milos Hauskrecht, Michal Valko, Branislav Kveton, Shyam Visweswaran, Gregory F. Cooper",29,health,likelihood
+2007,"Towards Real Time Epidemiology: Data Assimilation, Modeling and Anomaly Detection of Health Surveillance Data Streams","Luís M. A. Bettencourt, Ruy M. Ribeiro, Gerardo Chowell, Timothy Lant, Carlos Castillo-Chavez",27,gis,likelihood
+2007,Network anomaly detection based on TCM-KNN algorithm,"Yang Li, Binxing Fang, Li Guo, You Chen",61,ids,similarity
+2007,Incremental Local Outlier Detection for Data Streams,"Dragoljub Pokrajac, Aleksandar Lazarevic, Longin Jan Latecki",297,cross,similarity
+2007,Anomaly Detection for Application Level Network Attacks Using Payload Keywords,"Like Zhang, Gregory B. White",29,ids,model
+2007,A Sequential Monte Carlo Approach to Anomaly Detection in Tracking Visual Events,"Peng Cui, Lifeng Sun, Zhi-Qiang Liu, Shiqiang Yang",27,remote,likelihood
+2007,Improving Voltage Assignment by Outlier Detection and Incremental Placement,"Huaizhi Wu, Martin D. F. Wong",23,others,similarity
+2007,Correlation-Based Detection of Attribute Outliers,"Judice L. Y. Koh, Mong-Li Lee, Wynne Hsu, Kai-Tak Lam",27,cross,frequency
+2007,Separating the Wheat from the Chaff: Practical Anomaly Detection Schemes in Ecological Applications of Distributed Sensor Networks,"Luís M. A. Bettencourt, Aric A. Hagberg, Levi B. Larkey",75,sense,likelihood
+2007,Comparison of Outlier Detection Methods in Fault-proneness Models,"Shinsuke Matsumoto, Yasutaka Kamei, Akito Monden, Ken-ichi Matsumoto",28,cross,n/a
+2007,An Approach to Outlier Detection of Software Measurement Data using the K-means Clustering Method,"Kyung-A Yoon, Oh-Sung Kwon, Doo-Hwan Bae",72,fault,cluster
+2007,Typical Behavior Patterns Extraction and Anomaly Detection Algorithm Based on Accumulated Home Sensor Data,"Taketoshi Mori, Akinori Fujii, Masamichi Shimosaka, Hiroshi Noguchi, Tomomasa Sato",32,sense,likelihood
+2007,Log summarization and anomaly detection for troubleshooting distributed systems,"Dan Gunter, Brian Tierney, Aaron Brown, D. Martin Swany, John Bresnahan, Jennifer M. Schopf",28,fault,likelihood
+2007,Continuous Adaptive Outlier Detection on Distributed Data Streams,"Liang Su, Weihong Han, Shuqiang Yang, Peng Zou, Yan Jia",20,cross,likelihood
+2007,Quarter Sphere Based Distributed Anomaly Detection in Wireless Sensor Networks,"Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami, James C. Bezdek",168,sense,model
+2007,Feature Selection Using Rough-DPSO in Anomaly Intrusion Detection,"Anazida Zainal, Mohd Aizaini Maarof, Siti Mariyam Hj. Shamsuddin",55,ids,model
+2007,Clustering Needles in a Haystack: An Information Theoretic Analysis of Minority and Outlier Detection,Shin Ando,53,cross,likelihood
+2007,Fast Hyperspectral Anomaly Detection via SVDD,"Amit Banerjee, Philippe Burlina, Reuven Meth",56,remote,model
+2007,Data fusion algorithms for network anomaly detection: classification and evaluation,"Vasilis Chatzigiannakis, Georgios Androulidakis, K. Pelechrinis, Symeon Papavassiliou, Vasilis Maglaris",45,ids,n/a
+2007,Automatic Outlier Detection: A Bayesian Approach,"Jo-Anne Ting, Aaron D'Souza, Stefan Schaal",48,sense,likelihood
+2007,An ARP-based Anomaly Detection Algorithm Using Hidden Markov Model in Enterprise Networks,"Yasser Yasami, M. Farahmand, V. Zargari",34,ids,likelihood
+2007,Spatial Outlier Detection: A Graph-Based Approach,"Yufeng Kou, Chang-Tien Lu, Raimundo F. Dos Santos",33,gis,similarity
+2007,A Scalable and Efficient Outlier Detection Strategy for Categorical Data,"Anna Koufakou, Enrique G. Ortiz, Michael Georgiopoulos, Georgios C. Anagnostopoulos, Kenneth M. Reynolds",70,cross,frequency
+2007,Unsupervised Anomaly Detection,"David Guthrie, Louise Guthrie, Ben Allison, Yorick Wilks",23,cross,similarity
+2007,Challenging the supremacy of traffic matrices in anomaly detection,"Augustin Soule, Fernando Silveira, Haakon Ringberg, Christophe Diot",22,ids,likelihood
+2007,Multivariate Online Anomaly Detection Using Kernel Recursive Least Squares,"Tarem Ahmed, Mark Coates, Anukool Lakhina",139,ids,model
+2007,An Approach to Detect Executable Content for Anomaly Based Network Intrusion Detection,"Like Zhang, Gregory B. White",35,ids,frequency
+2007,A Kalman filter for robust outlier detection,"Jo-Anne Ting, Evangelos Theodorou, Stefan Schaal",94,cross,likelihood
+2007,ECG Anomaly Detection via Time Series Analysis,"Mooi Choo Chuah, Fen Fu",64,health,similarity
+2007,ANDES: an Anomaly Detection System for Wireless Sensor Networks,"Sumit Gupta, Rong Zheng, Albert M. K. Cheng",35,sense,frequency
+2007,R-Capriccio: A Capacity Planning and Anomaly Detection Tool for Enterprise Services with Live Workloads,"Qi Zhang, Ludmila Cherkasova, Guy Mathews, Wayne Greene, Evgenia Smirni",77,fault,likelihood
+2007,Outlier Detection with Kernel Density Functions,"Longin Jan Latecki, Aleksandar Lazarevic, Dragoljub Pokrajac",95,cross,similarity
+2007,Outlier detection in sensor networks,"Bo Sheng, Qun Li, Weizhen Mao, Wen Jin",187,sense,likelihood
+2007,Lightweight Anomaly Intrusion Detection in Wireless Sensor Networks,"Haiguang Chen, Peng Han, Xi Zhou, Chuanshan Gao",28,sense,rule
+2007,Research on Hidden Markov Model for System Call Anomaly Detection,"Quan Qian, Mingjun Xin",20,ids,likelihood
+2007,ODDC: Outlier Detection Using Distance Distribution Clustering,"Kun Niu, Chong Huang, Shubo Zhang, Junliang Chen",55,cross,cluster
+2007,Macro Programming through Bayesian Networks: Distributed Inference and Anomaly Detection,"Marco Mamei, Radhika Nagpal",21,sense,likelihood
+2007,Swaddler: An Approach for the Anomaly-Based Detection of State Violations in Web Applications,"Marco Cova, Davide Balzarotti, Viktoria Felmetsger, Giovanni Vigna",199,ids,n/a
+2007,Comparing Anomaly Detection Techniques for HTTP,"Kenneth L. Ingham, Hajime Inoue",151,ids,n/a
+2007,Anomaly detection and diagnosis in grid environments,"Lingyun Yang, Chuang Liu, Jennifer M. Schopf, Ian T. Foster",23,fault,model
+2007,Distributed Top-K Outlier Detection from Astronomy Catalogs using the DEMAC System,"Haimonti Dutta, Chris Giannella, Kirk D. Borne, Hillol Kargupta",100,cross,model
+2007,ROAM: Rule- and Motif-Based Anomaly Detection in Massive Moving Object Data Sets,"Xiaolei Li, Jiawei Han, Sangkyum Kim, Hector Gonzalez",115,gis,rule
+2007,Sensitivity of PCA for traffic anomaly detection,"Haakon Ringberg, Augustin Soule, Jennifer Rexford, Christophe Diot",343,ids,model
+2007,Learning motion patterns and anomaly detection by Human trajectory analysis,"Naohiko Suzuki, Kosuke Hirasawa, Kenichi Tanaka, Yoshinori Kobayashi, Yoichi Sato, Yozo Fujino",47,gis,likelihood
+2007,Probabilistic Models for Anomaly Detection in Remote Sensor Data Streams,"Ethan W. Dereszynski, Thomas G. Dietterich",33,sense,likelihood
+2008,Unsupervised anomaly detection in large databases using bayesian networks,"Antonio Cansado, Alvaro Soto",23,cross,likelihood
+2008,Outlier detection using default reasoning,"Fabrizio Angiulli, Rachel Ben-Eliyahu-Zohary, Luigi Palopoli",20,cross,n/a
+2008,Hidden semi-Markov model for anomaly detection,"Xiaobin Tan, Hongsheng Xi",36,ids,likelihood
+2008,OutlierD: an R package for outlier detection using quantile regression on mass spectrometry data,"HyungJun Cho, Yang-jin Kim, Hee Jung Jung, Sang-Won Lee, Jae Won Lee",25,health,frequency
+2008,Cancer outlier detection based on likelihood ratio test,Jianhua Hu,25,health,likelihood
+2008,A lightweight web server anomaly detection method based on transductive scheme and genetic algorithms,"Yang Li, Li Guo, Zhihong Tian, Tianbo Lu",24,ids,similarity
+2008,Processing of massive audit data streams for real-time anomaly intrusion detection,"Wei Wang, Xiaohong Guan, Xiangliang Zhang",78,ids,model
+2008,Application-based anomaly intrusion detection with dynamic information flow analysis,"Wes Masri, Andy Podgurski",30,ids,cluster
+2008,Outlier detection in two-stage semiparametric DEA models,"Andrew L. Johnson, Leon F. McGinnis",53,others,frequency
+2008,DADICC: Intelligent system for anomaly detection in a combined cycle gas turbine plant,"Antonio L. Arranz Matía, Alberto Cruz, Miguel A. Sanz-Bobi, Pablo Ruíz, Josué Coutiño",28,fault,model
+2008,Improving network anomaly detection via selective flow-based sampling,"Georgios Androulidakis, Symeon Papavassiliou",56,ids,likelihood
+2008,Outrank: a Graph-Based Outlier Detection Framework Using Random Walk,"H. D. K. Moonesinghe, Pang-Ning Tan",40,cross,similarity
+2008,A rough set approach to outlier detection,"Feng Jiang, Yuefei Sui, Cungen Cao",36,cross,frequency
+2008,Baseline Profile Stability for Network Anomaly Detection,"Yoohwan Kim, Ju-Yeon Jo, Kyunghee Kim Suh",35,ids,n/a
+2008,Ensemble methods for anomaly detection and distributed intrusion detection in Mobile Ad-Hoc Networks,"João B. D. Cabrera, Carlos Gutiérrez, Raman K. Mehra",83,ids,likelihood
+2008,Local anomaly detection for mobile network monitoring,"Pekka Kumpulainen, Kimmo Hätönen",22,ids,model
+2008,A Selective KPCA Algorithm Based on High-Order Statistics for Anomaly Detection in Hyperspectral Imagery.,"Yanfeng Gu, Ying Liu, Ye Zhang",91,remote,model
+2008,Video Behavior Profiling for Anomaly Detection,"Tao Xiang, Shaogang Gong",300,remote,likelihood
+2008,A projection pursuit algorithm for anomaly detection in hyperspectral imagery,"José A. Malpica, Juan G. Rejas, María Concepcion Alonso",47,remote,model
+2008,Anomaly detection in hyperspectral imagery based on maximum entropy and nonparametric estimation,"Lin He, Quan Pan, Wei Di, Yuanqing Li",26,remote,likelihood
+2008,A Cluster Validity Measure With Outlier Detection for Support Vector Clustering,"Jeen-Shing Wang, Jen-Chieh Chiang",80,cross,model
+2008,Anomaly detection in wireless sensor networks,"Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami",202,sense,n/a
+2008,Vertical and horizontal synchronization services with outlier detection in underwater acoustic networks,"Fei Hu, Yamin Malkawi, Sunil Kumar, Yang Xiao",33,sense,likelihood
+2008,Evaluation of Anomaly Based Character Distribution Models in the Detection of SQL Injection Attacks.,"Mehdi Kiani, Andrew J. Clark, George M. Mohay",56,ids,likelihood
+2008,Bridging the Gap between Data-Flow and Control-Flow Analysis for Anomaly Detection,"Peng Li, Hyundo Park, Debin Gao, Jianming Fu",21,ids,frequency
+2008,Optimizing Fuzzy K-means for network anomaly detection using PSO,"Roya Ensafi, Soheila Dehghanzadeh, Mohammad R. Akbarzadeh-Totonchi",31,ids,cluster
+2008,An image processing approach to traffic anomaly detection,"Romain Fontugne, Toshio Hirotsu, Kensuke Fukuda",22,ids,frequency
+2008,Support Vector Machine for Outlier Detection in Breast Cancer Survivability Prediction,"Jaree Thongkam, Guandong Xu, Yanchun Zhang, Fuchun Huang",28,health,model
+2008,Artificial Immune System Based Robot Anomaly Detection Engine for Fault Tolerant Robots,"Bojan Jakimovski, Erik Maehle",21,fault,rule
+2008,New directions in privacy-preserving anomaly detection for network traffic,"Giuseppe Bianchi, Simone Teofili, Matteo Pomposini",24,ids,frequency
+2008,Automatic feature selection for anomaly detection,"Marius Kloft, Ulf Brefeld, Patrick Düssel, Christian Gehl, Pavel Laskov",46,ids,model
+2008,Using Density-Based Incremental Clustering for Anomaly Detection,"Fei Ren, Liang Hu, Hao Liang, Xiaobo Liu, Weiwu Ren",24,ids,cluster
+2008,A Kalman Filter Based Approach for Outlier Detection in Sensor Networks,"Meng Shuai, Kunqing Xie, Guanhua Chen, Xiuli Ma, Guojie Song",24,sense,likelihood
+2008,Learning object motion patterns for anomaly detection and improved object detection,"Arslan Basharat, Alexei Gritai, Mubarak Shah",278,remote,likelihood
+2008,Anomaly-Based Intrusion Detection Using Bayesian Networks.,Wojciech Tylman,27,ids,likelihood
+2008,Anomaly? application change? or workload change? towards automated detection of application performance anomaly and change,"Ludmila Cherkasova, Kivanc M. Ozonat, Ningfang Mi, Julie Symons, Evgenia Smirni",115,fault,model
+2008,Spatiotemporal Anomaly Detection in Gas Monitoring Sensor Networks,"X. Rosalind Wang, Joseph T. Lizier, Oliver Obst, Mikhail Prokopenko, Peter Wang",71,sense,likelihood
+2008,Efficient Clustering-Based Outlier Detection Algorithm for Dynamic Data Stream,"Manzoor Elahi, Kun Li, Wasif Nisar, Xinjie Lv, Hongan Wang",70,cross,cluster
+2008,Clustering-Based Outlier Detection Method,"Sheng-yi Jiang, Qing-bo An",58,cross,cluster
+2008,Anomaly detection for sea surveillance,Rikard Laxhammar,106,gis,likelihood
+2008,Statistical analysis of motion patterns in AIS Data: Anomaly detection and motion prediction,"Branko Ristic, Barbara F. La Scala, Mark R. Morelande, Neil J. Gordon",206,gis,likelihood
+2008,Improving maritime anomaly detection and situation awareness through interactive visualization,"Maria Riveiro, Göran Falkman, Tom Ziemke",71,gis,likelihood
+2008,CESVM: Centered Hyperellipsoidal Support Vector Machine Based Anomaly Detection,"Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami",24,cross,model
+2008,Trajectory Outlier Detection: A Partition-and-Detect Framework,"Jae-Gil Lee, Jiawei Han, Xiaolei Li",335,cross,similarity
+2008,Comparative Evaluation of Anomaly Detection Techniques for Sequence Data,"Varun Chandola, Varun Mithal, Vipin Kumar",85,cross,n/a
+2008,Inlier-Based Outlier Detection via Direct Density Ratio Estimation,"Shohei Hido, Yuta Tsuboi, Hisashi Kashima, Masashi Sugiyama, Takafumi Kanamori",64,cross,likelihood
+2008,Anomaly Detection Algorithms in Business Process Logs,"Fábio de Lima Bezerra, Jacques Wainer",27,others,frequency
+2008,Incorporation of Application Layer Protocol Syntax into Anomaly Detection,"Patrick Düssel, Christian Gehl, Pavel Laskov, Konrad Rieck",36,ids,similarity
+2008,Multiple-Window Anomaly Detection for Hyperspectral Imagery,"Weimin Liu, Chein-I Chang",35,remote,model
+2008,Fast parallel outlier detection for categorical datasets using MapReduce,"Anna Koufakou, Jimmy Secretan, John Reeder, Kelvin Cardona, Michael Georgiopoulos",34,cross,frequency
+2008,An empirical evaluation of entropy-based traffic anomaly detection,"George Nychis, Vyas Sekar, David G. Andersen, Hyong Kim, Hui Zhang",299,ids,likelihood
+2008,Distributed Spatial Anomaly Detection,"Parminder Chhabra, Clayton D. Scott, Eric D. Kolaczyk, Mark Crovella",72,ids,likelihood
+2008,Using Echo State Networks for Anomaly Detection in Underground Coal Mines,"Oliver Obst, X. Rosalind Wang, Mikhail Prokopenko",23,sense,model
+2008,Anomaly detection algorithm based on life pattern extraction from accumulated pyroelectric sensor data,"Taketoshi Mori, Ryo Urushibata, Masamichi Shimosaka, Hiroshi Noguchi, Tomomasa Sato",27,health,likelihood
+2008,Outlier Detection Techniques for Process Mining Applications,"Lucantonio Ghionna, Gianluigi Greco, Antonella Guzzo, Luigi Pontieri",27,others,cluster
+2008,Production Multivariate Outlier Detection Using Principal Components,Peter M. O'Neill,32,cross,model
+2008,Anomaly pattern detection in categorical datasets,"Kaustav Das, Jeff G. Schneider, Daniel B. Neill",96,cross,likelihood
+2008,Angle-based outlier detection in high-dimensional data,"Hans-Peter Kriegel, Matthias Schubert, Arthur Zimek",352,cross,similarity
+2008,Spatio-temporal Outlier Detection in Precipitation Data,"Elizabeth Wu, Wei Liu, Sanjay Chawla",45,gis,similarity
+2008,Local peculiarity factor and its application in outlier detection,"Jian Yang, Ning Zhong, Yiyu Yao, Jue Wang",33,cross,likelihood
+2008,Monitoring smartphones for anomaly detection,"Aubrey-Derrick Schmidt, Frank Peters, Florian Lamour, Sahin Albayrak",193,ids,model
+2008,Efficient Direct Density Ratio Estimation for Non-stationarity Adaptation and Outlier Detection,"Takafumi Kanamori, Shohei Hido, Masashi Sugiyama",67,cross,likelihood
+2008,A Two-Layered Anomaly Detection Technique Based on Multi-modal Flow Behavior Models,"Marc Ph. Stoecklin, Jean-Yves Le Boudec, Andreas Kind",33,ids,frequency
+2008,Anomaly detection algorithms in logs of process aware systems,"Fábio de Lima Bezerra, Jacques Wainer",26,others,frequency
+2008,An anomaly intrusion detection method using the CSI-KNN algorithm,"Liwei Kuang, Mohammad Zulkernine",38,ids,similarity
+2008,TCM-KNN scheme for network anomaly detection using feature-based optimizations,"Yang Li, Li Guo",21,ids,similarity
+2008,Outlier Detection with Uncertain Data,"Charu C. Aggarwal, Philip S. Yu",172,cross,likelihood
+2008,Outlier Detection for Transaction Databases Using Association Rules,"Kazuyo Narita, Hiroyuki Kitagawa",29,cross,rule
+2008,Web graph similarity for anomaly detection,"Panagiotis Papadimitriou, Ali Dasdan, Hector Garcia-Molina",145,cross,similarity
+2009,Network Anomaly Detection with Incomplete Audit Data,Animesh Patcha,43,ids,likelihood
+2009,Cluster-based outlier detection,"Lian Duan, Lida Xu, Ying Liu, Jun Lee",119,cross,cluster
+2009,A fuzzy vector valued KNN-algorithm for automatic outlier detection,Ralf Östermark,20,cross,similarity
+2009,Statistical quality assessment and outlier detection for liquid chromatography-mass spectrometry experiments,"Ole Schulz-Trieglaff, Egidijus Machtejevas, Knut Reinert, Hartmut Schlüter, Joachim Thiemann, Klaus Unger",25,health,model
+2009,McPAD: A multiple classifier system for accurate payload-based anomaly detection,"Roberto Perdisci, Davide Ariu, Prahlad Fogla, Giorgio Giacinto, Wenke Lee",216,ids,model
+2009,"Anomaly-based network intrusion detection: Techniques, systems and challenges","Pedro Garcia-Teodoro, Jesús E. Díaz-Verdejo, Gabriel Maciá-Fernández, Enrique Vázquez",1054,ids,n/a
+2009,Robust probabilistic PCA with missing data and contribution analysis for outlier detection,"Tao Chen, Elaine B. Martin, Gary A. Montague",61,cross,model
+2009,Anomaly detection: A survey,"Varun Chandola, Arindam Banerjee, Vipin Kumar",5105,cross,n/a
+2009,Network Anomaly Detection Based on Wavelet Analysis,"Wei Lu, Ali A. Ghorbani",156,ids,model
+2009,Some issues about outlier detection in rough set theory,"Feng Jiang, Yuefei Sui, Cungen Cao",48,cross,similarity
+2009,Projected outlier detection in high-dimensional mixed-attributes data set,"Mao Ye, Xue Li, Maria E. Orlowska",41,cross,similarity
+2009,Unsupervised Anomaly Detection for Liquid-Fueled Rocket Propulsion Health Monitoring,"Mark Schwabacher, Nikunj C. Oza, Bryan L. Matthews",31,fault,n/a
+2009,Subtractive Clustering Based RBF Neural Network Model for Outlier Detection,"Peng Yang, Qingsheng Zhu, Xun Zhong",32,cross,model
+2009,Reducing errors in the anomaly-based detection of web-based attacks through the combined analysis of web requests and SQL queries,"Giovanni Vigna, Fredrik Valeur, Davide Balzarotti, William K. Robertson, Christopher Kruegel, Engin Kirda",58,ids,likelihood
+2009,A program-based anomaly intrusion detection scheme using multiple detection engines and fuzzy inference,"Xuan Dau Hoang, Jiankun Hu, Peter Bertók",97,ids,likelihood
+2009,Real-time anomaly detection in hyperspectral images using multivariate normal mixture models and GPU processing,"Yuliya Tarabalka, Trym Vegard Haavardsholm, Ingebjørg Kåsen, Torbjørn Skauli",111,cross,likelihood
+2009,Spectral Unmixing With Negative and Superunity Abundances for Subpixel Anomaly Detection,"Olga Duran, Maria Petrou",33,remote,cluster
+2009,Network anomaly detection and classification via opportunistic sampling,"Georgios Androulidakis, Vasilis Chatzigiannakis, Symeon Papavassiliou",97,ids,likelihood
+2009,A simple and efficient hidden Markov model scheme for host-based anomaly intrusion detection,"Jiankun Hu, Xinghuo Yu, D. Qiu, Hsiao-Hwa Chen",123,ids,likelihood
+2009,Accurate anomaly detection through parallelism,"Shashank Shanbhag, Tilman Wolf",33,ids,frequency
+2009,Outlier Detection with the Kernelized Spatial Depth Function,"Yixin Chen, Xin Dang, Hanxiang Peng, Henry L. Bart Jr",94,cross,likelihood
+2009,Hypergraph-Based Anomaly Detection of High-Dimensional Co-Occurrences,"Jorge G. Silva, Rebecca Willett",36,ids,likelihood
+2009,A Small Sphere and Large Margin Approach for Novelty Detection Using Training Data with Outliers,"Mingrui Wu, Jieping Ye",161,cross,model
+2009,A boundary method for outlier detection based on support vector domain description,"Shu-Mei Guo, Li-Chun Chen, Jason Sheng Hong Tsai",90,cross,model
+2009,Review and comparative evaluation of symbolic dynamic filtering for detection of anomaly patterns,"Chinmay Rao, Asok Ray, Soumik Sarkar, Murat Yasar",118,cross,likelihood
+2009,Snake Validation: A PCA-Based Outlier Detection Method,"Baidya Nath Saha, Nilanjan Ray, Hong Zhang",20,cross,model
+2009,Histogram-based traffic anomaly detection,"Andreas Kind, Marc Ph. Stoecklin, Xenofontas A. Dimitropoulos",157,ids,model
+2009,Automated anomaly detection and performance modeling of enterprise applications,"Ludmila Cherkasova, Kivanc M. Ozonat, Ningfang Mi, Julie Symons, Evgenia Smirni",79,fault,model
+2009,Spatio-temporal network anomaly detection by assessing deviations of empirical measures,"Ioannis Ch. Paschalidis, Georgios Smaragdakis",83,ids,likelihood
+2009,A large-scale hidden semi-Markov model for anomaly detection on user browsing behaviors,"Yi Xie, Shun-Zheng Yu",224,ids,likelihood
+2009,Anomaly Detection and Diagnosis Algorithms for Discrete Symbol Sequences with Applications to Airline Safety,"Suratna Budalakoti, Ashok N. Srivastava, Matthew Eric Otey",110,cross,cluster
+2009,Anomaly Detection via Feature-Aided Tracking and Hidden Markov Models,"Satnam Singh, Haiying Tu, William Donat, Krishna R. Pattipati, Peter Willett",45,cross,likelihood
+2009,A Dynamic Anomaly Detection Scheme for AODV-Based Mobile Ad Hoc Networks,"Hidehisa Nakayama, Satoshi Kurosawa, Abbas Jamalipour, Yoshiaki Nemoto, Nei Kato",126,ids,model
+2009,Interactive Visualization of Normal Behavioral Models and Expert Rules for Maritime Anomaly Detection,"Maria Riveiro, Göran Falkman",25,gis,likelihood
+2009,Distance-Based Outlier Detection on Uncertain Data,"Bin Wang, Gang Xiao, Hao Yu, Xiaochun Yang",57,cross,similarity
+2009,Network Anomaly Detection Based on Statistical Approach and Time Series Analysis,"Huang Kai, Qi Zhengwei, Liu Bo",20,ids,likelihood
+2009,Adaptive and Online One-Class Support Vector Machine-Based Outlier Detection Techniques for Wireless Sensor Networks,"Yang Zhang, Nirvana Meratnia, Paul J. M. Havinga",71,sense,model
+2009,Anomaly Detection Using Process Mining,"Fábio de Lima Bezerra, Jacques Wainer, Wil M. P. van der Aalst",48,others,model
+2009,Cyber-Critical Infrastructure Protection Using Real-Time Payload-Based Anomaly Detection,"Patrick Düssel, Christian Gehl, Pavel Laskov, Jens-Uwe Bußer, Christof Störmann, Jan Kästner",49,ids,similarity
+2009,Anomaly detection in extremely crowded scenes using spatio-temporal motion pattern models,"Louis Kratz, Ko Nishino",511,remote,likelihood
+2009,Mote-Based Online Anomaly Detection Using Echo State Networks,"Marcus Chang, Andreas Terzis, Philippe Bonnet",25,sense,model
+2009,Selecting and Improving System Call Models for Anomaly Detection,"Alessandro Frossi, Federico Maggi, Gian Luigi Rizzo, Stefano Zanero",39,ids,model
+2009,Comparing anomaly-detection algorithms for keystroke dynamics,"Kevin S. Killourhy, Roy A. Maxion",381,ids,n/a
+2009,Leveraging Determinism in Industrial Control Systems for Advanced Anomaly Detection and Reliable Security Configuration,"Hadeli Hadeli, Ragnar Schierholz, Markus Brändle, Cristian Tuduce",45,ids,rule
+2009,Efficient Signal Processing and Anomaly Detection in Wireless Sensor Networks,"Markus Wälchli, Torsten Braun",23,sense,model
+2009,Anomaly detection in sea traffic - A comparison of the Gaussian Mixture Model and the Kernel Density Estimator,"Rikard Laxhammar, Göran Falkman, Egils Sviestins",112,gis,likelihood
+2009,Online Anomaly Detection Using KDE,Tarem Ahmed,38,ids,likelihood
+2009,A Distribution-Based Approach to Anomaly Detection and Application to 3G Mobile Traffic,"Alessandro D'Alconzo, Angelo Coluccia, Fabio Ricciato, Peter Romirer-Maierhofer",44,sense,likelihood
+2009,T Cell Receptor Signalling Inspired Kernel Density Estimation and Anomaly Detection,"Nick D. L. Owens, Andrew J. Greensted, Jon Timmis, Andrew M. Tyrrell",30,cross,likelihood
+2009,Combining Hidden Markov Models for Improved Anomaly Detection,"Wael Khreich, Eric Granger, Robert Sabourin, Ali Miri",31,ids,likelihood
+2009,Temporal Outlier Detection in Vehicle Traffic Data,"Xiaolei Li, Zhenhui Li, Jiawei Han, Jae-Gil Lee",110,gis,similarity
+2009,Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis,"Qiang Fu, Jian-Guang Lou, Yi Wang, Jiang Li",174,fault,model
+2009,Effective Anomaly Detection in Sensor Networks Data Streams,"Budhaditya Saha, Duc-Son Pham, Mihai Lazarescu, Svetha Venkatesh",29,cross,model
+2009,Filtering and Refinement: A Two-Stage Approach for Efficient and Effective Anomaly Detection,"Xiao Yu, Lu An Tang, Jiawei Han",25,cross,similarity
+2009,Using one-class SVM outliers detection for verification of collaboratively tagged image training sets,"Hanna M. Lukashevich, Stefanie Nowak, Peter Dunker",29,cross,model
+2009,Outlier Detection with One-Class Classifiers from ML and KDD,"Jeroen H. M. Janssens, Ildikó Flesch, Eric O. Postma",26,cross,n/a
+2009,SO_MAD: SensOr Mining for Anomaly Detection in Railway Data,"Julien Rabatel, Sandra Bringay, Pascal Poncelet",21,sense,frequency
+2009,Network Performance Anomaly Detection and Localization,"Paul Barford, Nick G. Duffield, Amos Ron, Joel Sommers",102,fault,likelihood
+2009,Applying PCA for Traffic Anomaly Detection: Problems and Solutions,"Daniela Brauckhoff, Kavé Salamatian, Martin May",130,ids,model
+2009,Rule-Based Anomaly Detection on IP Flows,"Nick G. Duffield, Patrick Haffner, Balachander Krishnamurthy, Haakon Ringberg",51,ids,rule
+2009,ALDO: An Anomaly Detection Framework for Dynamic Spectrum Access Networks,"Song Liu, Yingying Chen, Wade Trappe, Larry J. Greenstein",59,ids,likelihood
+2009,Applying graph-based anomaly detection approaches to the discovery of insider threats,"William Eberle, Lawrence B. Holder",26,cross,n/a
+2009,CoCo: coding cost for parameter-free outlier detection,"Christian Böhm, Katrin Haegler, Nikola S. Müller, Claudia Plant",34,cross,model
+2009,Combining incremental Hidden Markov Model and Adaboost algorithm for anomaly intrusion detection,"Yu-Shu Chen, Yi-Ming Chen",28,ids,likelihood
+2009,Anomaly detection and spatio-temporal analysis of global climate system,"Mahashweta Das, Srinivasan Parthasarathy",35,gis,n/a
+2009,Network anomaly detection based on Eigen equation compression,"Shunsuke Hirose, Kenji Yamanishi, Takayuki Nakata, Ryohei Fujimaki",48,ids,likelihood
+2009,A LRT framework for fast spatial anomaly detection,"Mingxi Wu, Xiuyao Song, Chris Jermaine, Sanjay Ranka, John Gums",35,gis,likelihood
+2009,Outlier Detection in Ad Hoc Networks Using Dempster-Shafer Theory,"Wenjia Li, Anupam Joshi",48,ids,similarity
+2009,Spectrogram: A Mixture-of-Markov-Chains Model for Anomaly Detection in Web Traffic,"Yingbo Song, Angelos D. Keromytis, Salvatore J. Stolfo",107,ids,likelihood
+2009,Anomaly Detection with Score functions based on Nearest Neighbor Graphs,"Manqi Zhao, Venkatesh Saligrama",96,cross,similarity
+2009,Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data,"Hans-Peter Kriegel, Peer Kröger, Erich Schubert, Arthur Zimek",128,cross,similarity
+2009,A New Local Distance-Based Outlier Detection Approach for Scattered Real-World Data,"Ke Zhang, Marcus Hutter, Huidong Jin",215,cross,similarity
+2009,Efficient Pruning Schemes for Distance-Based Outlier Detection,"Hoang Vu Nguyen, Vivekanand Gopalkrishnan",29,cross,similarity
+2009,Panacea: Automating Attack Classification for Anomaly-Based Network Intrusion Detection Systems,"Damiano Bolzoni, Sandro Etalle, Pieter H. Hartel",43,ids,n/a
+2009,Adaptive Anomaly Detection via Self-calibration and Dynamic Updating,"Gabriela F. Cretu-Ciocarlie, Angelos Stavrou, Michael E. Locasto, Salvatore J. Stolfo",38,ids,n/a
+2009,SMS-Watchdog: Profiling Social Behaviors of SMS Users for Anomaly Detection,"Guanhua Yan, Stephan Eidenbenz, Emanuele Galli",24,ids,likelihood
+2009,Cross-Layer Based Anomaly Detection in Wireless Mesh Networks,"Xia Wang, Johnny S. Wong, Fred Stanley, Samik Basu",43,ids,n/a
+2009,Proximity-Based Anomaly Detection Using Sparse Structure Learning,"Tsuyoshi Idé, Aurelie C. Lozano, Naoki Abe, Yan Liu",43,cross,likelihood
+2009,Outlier Detection with Globally Optimal Exemplar-Based GMM,"Xingwei Yang, Longin Jan Latecki, Dragoljub Pokrajac",22,cross,likelihood
+2009,The Frog-Boiling Attack: Limitations of Anomaly Detection for Secure Network Coordinate Systems,"Eric Chan-Tin, Daniel Feldman, Nicholas Hopper, Yongdae Kim",35,ids,n/a
+2009,ORDEN: outlier region detection and exploration in sensor networks,"Conny Franke, Michael Gertz",31,sense,similarity
+2009,A RAIM approach to GNSS outlier and cycle slip detection using L1 carrier phase time-differences,"Martti Kirkko-Jaakkola, Johannes Traugott, Dennis Odijk, Jussi Collin, Gottfried Sachs, Florian Holzapfel",24,gis,model
+2009,Time Series Clustering for Anomaly Detection Using Competitive Neural Networks,"Guilherme De A. Barreto, Leonardo Aguayo",20,cross,model
+2009,Use of statistical outlier detection method in adaptive evolutionary algorithms,"James M. Whitacre, Q. Tuan Pham, Ruhul A. Sarker",47,others,likelihood
+2013,In-Network Outlier Detection in Wireless Sensor Networks,"Joel W. Branch, Chris Giannella, Boleslaw K. Szymanski, Ran Wolff, Hillol Kargupta",374,sense,n/a
+2010,Observing the unobservable : distributed online outlier detection in wireless sensor networks,Yang Zhang,22,sense,n/a
+2010,"Sequential anomaly detection based on temporal-difference learning: Principles, models and case studies",Xin Xu,47,cross,likelihood
+2010,Shape based kinetic outlier detection in real-time PCR,"Davide Sisti, Michele Guescini, Marco B. L. Rocchi, Pasquale Tibollo, Mario D'Atri, Vilberto Stocchi",22,health,likelihood
+2010,On mitigating sampling-induced accuracy loss in traffic anomaly detection systems,"Sardar Ali, Irfan Ul Haq, Sajjad Rizvi, Naurin Rasheed, Unum Sarfraz, Syed Ali Khayam, Fauzan Mirza",25,ids,n/a
+2010,Optimal volume anomaly detection and isolation in large-scale IP networks using coarse-grained measurements,"Pedro Casas, Sandrine Vaton, Lionel Fillatre, Igor V. Nikiforov",32,ids,likelihood
+2010,Network anomaly detection through nonlinear analysis,"Francesco Palmieri, Ugo Fiore",70,ids,model
+2010,On the symbiosis of specification-based and anomaly-based detection,"Natalia Stakhanova, Samik Basu, Johnny Wong",28,ids,model
+2010,WARP: A wormhole-avoidance routing protocol by anomaly detection in mobile ad hoc networks,Ming-Yang Su,81,ids,frequency
+2010,Outlier Detection Techniques for Wireless Sensor Networks: A Survey,"Yang Zhang, Nirvana Meratnia, Paul J. M. Havinga",567,sense,n/a
+2010,Wavelet-based detection of outliers in financial time series,"Aurea Grané, Helena Veiga",68,cross,model
+2010,A variance shift model for detection of outliers in the linear mixed model,"Freedom N. Gumedze, Sue J. Welham, Beverley J. Gogel, Robin Thompson",28,cross,likelihood
+2010,Outlier detection and least trimmed squares approximation using semi-definite programming,"Tri-Dung Nguyen, R. Welsch",38,cross,model
+2010,A fast outlier detection strategy for distributed high-dimensional data sets with mixed attributes,"Anna Koufakou, Michael Georgiopoulos",97,cross,frequency
+2010,Clusters versus GPUs for Parallel Target and Anomaly Detection in Hyperspectral Images,"Abel Paz, Antonio Plaza",50,remote,model
+2010,Anomaly detection in streaming environmental sensor data: A data-driven modeling approach,"David J. Hill, Barbara S. Minsker",120,sense,likelihood
+2010,Chaotic-based hybrid negative selection algorithm and its applications in fault and anomaly detection,"Ilhan Aydin, Mehmet Karaköse, Erhan Akin",75,cross,similarity
+2010,Neighborhood outlier detection,"Yumin Chen, Duoqian Miao, Hongyun Zhang",60,cross,similarity
+2010,A comparison of outlier detection algorithms for ITS data,"Shuyan Chen, Wei Wang, Henk J. van Zuylen",59,gis,n/a
+2010,An information entropy-based approach to outlier detection in rough sets,"Feng Jiang, Yuefei Sui, Cungen Cao",48,cross,likelihood
+2010,Random effects logistic regression model for anomaly detection,"Min Seok Mok, So Young Sohn, Yong Han Ju",22,ids,likelihood
+2010,Outlier detection and countermeasure for hierarchical wireless sensor networks,"Yi-Ying Zhang, Han-Chieh Chao, Min Chen, Lei Shu, Chulhyun Park, Myong-Soon Park",36,ids,frequency
+2010,Distribution-based anomaly detection in 3G mobile networks: from theory to practice,"Alessandro D'Alconzo, Angelo Coluccia, Peter Romirer-Maierhofer",30,ids,likelihood
+2010,"A scalable, efficient and informative approach for anomaly-based intrusion detection systems: theory and practice","Osman Salem, Sandrine Vaton, Annie Gravey",41,ids,model
+2010,Ensuring high sensor data quality through use of online outlier detection techniques,"Yang Zhang, Nirvana Meratnia, Paul J. M. Havinga",43,sense,model
+2010,Information fusion for anomaly detection with the dendritic cell algorithm,"Julie Greensmith, Uwe Aickelin, Gianni Tedesco",131,ids,similarity
+2010,A pattern-based outlier detection method identifying abnormal attributes in software project data,"Kyung-A Yoon, Doo-Hwan Bae",20,others,frequency
+2010,Modeling manufacturing processes using a genetic programming-based fuzzy regression with detection of outliers,"Kit Yan Chan, C. K. Kwong, Terence C. Fogarty",52,cross,model
+2010,Anomaly intrusion detection by clustering transactional audit streams in a host computer,"Nam Hun Park, Sang Hyun Oh, Won Suk Lee",31,ids,cluster
+2010,A new strategy of outlier detection for QSAR/QSPR,"Dong-Sheng Cao, Yi-Zeng Liang, Qing-Song Xu, Hong-Dong Li, Xian Chen",94,health,model
+2010,Anomaly Detection Analysis of Intrusion Data Using Supervised & Unsupervised Approach,"Prasanta Gogoi, Bhogeswar Borah, Dhruba K. Bhattacharyya",48,ids,n/a
+2010,Research on Maximal Frequent Pattern Outlier Factor for Online High-Dimensional Time-Series Outlier Detection,"Lin Feng, Le Wang, Bo Jin",22,cross,frequency
+2010,Anomaly Network Intrusion Detection Based on Improved Self Adaptive Bayesian Algorithm,"Dewan Md. Farid, Mohammad Zahidur Rahman",74,ids,likelihood
+2010,Web graph similarity for anomaly detection,"Panagiotis Papadimitriou, Ali Dasdan, Hector Garcia-Molina",145,cross,similarity
+2010,Semi-supervised outlier detection based on fuzzy rough C-means clustering,"Zhenxia Xue, Youlin Shang, Aifen Feng",60,cross,cluster
+2010,RFID-based human behavior modeling and anomaly detection for elderly care,"Hui-Huang Hsu, Chien-Chen Chen",29,health,cluster
+2010,Traffic Analysis & Modeling in Wireless Sensor Networks and Their Applications on Network Optimization and Anomaly Detection,Qinghua Wang,33,sense,n/a
+2010,Online anomaly detection for sensor systems: A simple and efficient approach,"Yuan Yao, Abhishek B. Sharma, Leana Golubchik, Ramesh Govindan",73,sense,similarity
+2010,Activity classification and anomaly detection using m-mediods based modelling of motion patterns,Shehzad Khalid,29,remote,similarity
+2010,Iterative Boolean combination of classifiers in the ROC space: An application to anomaly detection with HMMs,"Wael Khreich, Eric Granger, Ali Miri, Robert Sabourin",86,ids,likelihood
+2010,Distance-Based Outlier Detection: Consolidation and Renewed Bearing,"Gustavo Henrique Orair, Carlos H. C. Teixeira, Ye Wang, Wagner Meira Jr., Srinivasan Parthasarathy",84,cross,similarity
+2010,Classification of Energy Consumption in Buildings With Outlier Detection,"Xiaoli Li, Chris P. Bowers, Thorsten Schnier",125,fault,likelihood
+2010,Predictive network anomaly detection and visualization,"Mehmet Celenk, Thomas Conley, John Willis, James Graham",40,ids,likelihood
+2010,Centered hyperspherical and hyperellipsoidal one-class support vector machines for anomaly detection in sensor networks,"Sutharshan Rajasegarar, Christopher Leckie, James C. Bezdek, Marimuthu Palaniswami",103,sense,model
+2010,A novel unsupervised classification approach for network anomaly detection by k-Means clustering and ID3 decision tree learning methods,"Yasser Yasami, Saadat Pour Mozaffari",47,ids,cluster
+2010,Biologically Inspired Anomaly Detection and Security Control Frameworks for Complex Heterogeneous Networks,"Fazirulhisyam Hashim, Kumudu S. Munasinghe, Abbas Jamalipour",21,ids,likelihood
+2010,Statistical anomaly detection with sensor networks,"Ioannis Ch. Paschalidis, Yin Chen",26,sense,likelihood
+2010,Anomaly Detection Through a Bayesian Support Vector Machine,"Vasilis A. Sotiris, Peter W. Tse, Michael G. Pecht",89,cross,likelihood
+2010,Toward Credible Evaluation of Anomaly-Based Intrusion-Detection Methods,"Mahbod Tavallaee, Natalia Stakhanova, Ali A. Ghorbani",141,ids,n/a
+2010,Maintaining Defender's Reputation in Anomaly Detection Against Insider Attacks,"Nan Zhang, Wei Yu, Xinwen Fu, Sajal K. Das",25,ids,n/a
+2010,RADAR: A reputation-driven anomaly detection system for wireless mesh networks,"Zonghua Zhang, Pin-Han Ho, Farid Naït-Abdesselam",21,sense,similarity
+2010,Range-Based Localization in Wireless Networks Using Density-Based Outlier Detection,"Khalid K. Almuzaini, T. Aaron Gulliver",23,sense,similarity
+2010,A structured approach to anomaly detection for in-vehicle networks,"Michael Müter, André Groll, Felix C. Freiling",66,sense,frequency
+2010,Accelerating the local outlier factor algorithm on a GPU for intrusion detection systems,"Malak Alshawabkeh, Byunghyun Jang, David R. Kaeli",35,cross,similarity
+2010,Top-Eye: top-k evolving trajectory outlier detection,"Yong Ge, Hui Xiong, Zhi-Hua Zhou, Hasan Timucin Ozdemir, Jannite Yu, Kuo Chu Lee",74,gis,frequency
+2010,An Anomaly Detection Framework for Autonomic Management of Compute Cloud Systems,"Derek Smith, Qiang Guan, Song Fu",31,fault,similarity
+2010,Anomaly detection in crowded scenes,"Vijay Mahadevan, Weixin Li, Viral Bhalodia, Nuno Vasconcelos",789,remote,likelihood
+2010,Visual Evaluation of Outlier Detection Models,"Elke Achtert, Hans-Peter Kriegel, Lisa Reichert, Erich Schubert, Remigius Wojdanowski, Arthur Zimek",25,cross,n/a
+2010,DBOD-DS: Distance Based Outlier Detection for Data Streams,"Md. Shiblee Sadik, Le Gruenwald",32,cross,likelihood
+2010,Maritime anomaly detection and threat assessment,"Richard O. Lane, David A. Nevell, Steven D. Hayward, Thomas W. Beaney",85,gis,likelihood
+2010,Particle swarm optimisation for outlier detection,"Ammar W. Mohemmed, Mengjie Zhang, Will N. Browne",24,cross,similarity
+2010,Spatial outlier detection: random walk based approaches,"Xutong Liu, Chang-Tien Lu, Feng Chen",21,gis,similarity
+2010,Evaluation of Anomaly Detection Based on Sketch and PCA,"Yoshiki Kanda, Kensuke Fukuda, Toshiharu Sugawara",31,ids,model
+2010,Sketch-Based Streaming PCA Algorithm for Network-Wide Traffic Anomaly Detection,"Yang Liu, Linfeng Zhang, Yong Guan",48,ids,model
+2010,Data Editing Techniques to Allow the Application of Distance-Based Outlier Detection to Streams,"Vit Niennattrakul, Eamonn J. Keogh, Chotirat Ann Ratanamahatana",26,cross,similarity
+2010,Anomaly Detection Using an Ensemble of Feature Models,"Keith Noto, Carla E. Brodley, Donna K. Slonim",21,cross,model
+2010,Video anomaly detection in spatiotemporal context,"Fan Jiang, Junsong Yuan, Sotirios A. Tsaftaris, Aggelos K. Katsaggelos",20,remote,likelihood
+2010,Anomaly detection in surveillance video using motion direction statistics,"Chang Liu, Guijin Wang, Wenxin Ning, Xinggang Lin, Liang Li, Zhou Liu",26,remote,model
+2010,Distributed PCA-based anomaly detection in wireless sensor networks,"Mohammad Ahmadi Livani, Mahdi Abadi",30,sense,cluster
+2010,Semi-Supervised Anomaly Detection for EEG Waveforms Using Deep Belief Nets,"Drausin Wulsin, Justin A. Blanco, Ram Mani, Brian Litt",23,health,model
+2010,Online Learning with Self-Organizing Maps for Anomaly Detection in Crowd Scenes,"Jie Feng, Chao Zhang, Pengwei Hao",30,remote,cluster
+2010,Anomaly detection in GPS data based on visual analytics,"Zicheng Liao, Yizhou Yu, Baoquan Chen",56,gis,likelihood
+2010,Anomaly detection for hyperspectral images using local tangent space alignment,"Li Ma, Melba M. Crawford, Jinwen Tian",22,remote,similarity
+2010,A Signal Processing View on Packet Sampling and Anomaly Detection,"Daniela Brauckhoff, Kavé Salamatian, Martin May",32,ids,n/a
+2010,Outlier Detection in Smart Environment Structured Power Datasets,"Vikramaditya R. Jakkula, Diane J. Cook",26,sense,n/a
+2010,Octopus-IIDS: An anomaly based intelligent intrusion detection system,"Paulo Manoel Mafra, Vinicius Moll, Joni da Silva Fraga, Altair Olivo Santin",35,ids,model
+2010,Learning from 6000 projects: lightweight cross-project anomaly detection,"Natalie Gruska, Andrzej Wasylkowski, Andreas Zeller",73,others,frequency
+2010,GLS-SOD: a generalized local statistical approach for spatial outlier detection,"Feng Chen, Chang-Tien Lu, Arnold P. Boedihardjo",44,gis,likelihood
+2010,Multiple kernel learning for heterogeneous anomaly detection: algorithm and aviation safety case study,"Santanu Das, Bryan L. Matthews, Ashok N. Srivastava, Nikunj C. Oza",100,fault,model
+2010,On community outliers and their efficient detection in information networks,"Jing Gao, Feng Liang, Wei Fan, Chi Wang, Yizhou Sun, Jiawei Han",185,cross,likelihood
+2010,Effective Anomaly Detection with Scarce Training Data,"William K. Robertson, Federico Maggi, Christopher Kruegel, Giovanni Vigna",49,ids,cluster
+2010,Robust Outlier Detection Using Commute Time and Eigenspace Embedding,"Nguyen Lu Dang Khoa, Sanjay Chawla",53,cross,similarity
+2010,What Is the Impact of P2P Traffic on Anomaly Detection?,"Irfan Ul Haq, Sardar Ali, Hassan Khan, Syed Ali Khayam",21,ids,n/a
+2010,Privacy-Preserving Pattern Matching for Anomaly Detection in RFID Anti-Counterfeiting,"Florian Kerschbaum, Nina Oertel",31,ids,similarity
+2010,Data stream anomaly detection through principal subspace tracking,"Pedro Henriques dos Santos Teixeira, Ruy Luiz Milidiú",35,cross,model
+2010,Anomaly Detection in Feedback-based Reputation Systems through Temporal and Correlation Analysis,"Yuhong Liu, Yan Sun",53,ids,similarity
+2010,Anomaly-Based Intrusion Detection Algorithms for Wireless Networks,"Alexandros G. Fragkiadakis, Vasilios A. Siris, Nikos Petroulakis",23,sense,frequency
+2010,Online Anomaly Detection under Adversarial Impact,"Marius Kloft, Pavel Laskov",65,ids,cluster
+2010,Feature Extraction for Outlier Detection in High-Dimensional Spaces,"Hoang Vu Nguyen, Vivekanand Gopalkrishnan",27,cross,model
+2010,Host-Based Anomaly Intrusion Detection,Jiankun Hu,46,ids,likelihood
+2010,Dendritic Cells for Anomaly Detection,"Julie Greensmith, Jamie Twycross, Uwe Aickelin",117,cross,similarity
+2010,A Cluster-based Approach for Outlier Detection in Dynamic Data Streams (KORM: k-median OutlieR Miner),"Parneeta Dhaliwal, M. P. S. Bhatia, Priti Bansal",28,cross,cluster
+2010,Outlier Detection Using Nonconvex Penalized Regression,"Yiyuan She, Art B. Owen",130,cross,model
+2011,Detection of multivariate outliers in business survey data with incomplete information,"Valentin Todorov, Matthias Templ, Peter Filzmoser",21,others,n/a
+2011,Outlier detection in large data sets,"Guido Buzzi Ferraris, Flavio Manenti",37,cross,likelihood
+2011,Anomaly Detection in Environmental Monitoring Networks,"James C. Bezdek, Sutharshan Rajasegarar, Masud Moshtaghi, Christopher Leckie, Marimuthu Palaniswami, Timothy C. Havens",32,sense,cluster
+2011,A Survey of Outlier Detection Methods in Network Anomaly Identification,"Prasanta Gogoi, D. K. Bhattacharyya, Bhogeswar Borah, Jugal K. Kalita",139,ids,n/a
+2011,Data preprocessing for anomaly based network intrusion detection: A review,"Jonathan J. Davis, Andrew J. Clark",171,ids,n/a
+2011,Error rates for multivariate outlier detection,"Andrea Cerioli, Alessio Farcomeni",39,cross,likelihood
+2011,Outliers detection in environmental monitoring databases,"Hugo Garces, Daniel Sbarbaro",20,sense,model
+2011,Thresholds based outlier detection approach for mining class outliers: An empirical case study on software measurement datasets,"Oral Alan, Cagatay Catal",20,fault,frequency
+2011,Anomaly detection techniques for a web defacement monitoring service,"Giorgio Davanzo, Eric Medvet, Alberto Bartoli",20,ids,n/a
+2011,Fast outlier detection for very large log data,"Seung Kim, Nam Wook Cho, Bokyoung Kang, Suk-Ho Kang",34,cross,similarity
+2011,Self-adaptive and dynamic clustering for online anomaly detection,"Seungmin Lee, Gisung Kim, Sehun Kim",47,ids,cluster
+2011,Anomaly detection in monitoring sensor data for preventive maintenance,"Julien Rabatel, Sandra Bringay, Pascal Poncelet",25,sense,frequency
+2011,Real-time anomaly detection systems for Denial-of-Service attacks by weighted k-nearest-neighbor classifiers,Ming-Yang Su,61,ids,similarity
+2011,Survey on Incremental Approaches for Network Anomaly Detection,"Monowar Hussain Bhuyan, Dhruba K. Bhattacharyya, Jugal K. Kalita",34,ids,n/a
+2011,Anomaly Detection using Context-Aided Target Tracking,"Jemin George, John Crassidis, Tarunraj Singh, Adam M. Fosbury",21,gis,likelihood
+2011,Toward better QSAR/QSPR modeling: simultaneous outlier detection and variable selection using distribution of model features,"Dong-Sheng Cao, Yizeng Liang, Qingsong Xu, Yifeng Yun, Hongdong Li",23,health,likelihood
+2011,Anomaly detection in wireless sensor networks: A survey,"Miao Xie, Song Han, Biming Tian, Sazia Parvin",209,sense,n/a
+2011,Statistical outlier detection using direct density ratio estimation,"Shohei Hido, Yuta Tsuboi, Hisashi Kashima, Masashi Sugiyama, Takafumi Kanamori",149,cross,likelihood
+2011,COID: A cluster-outlier iterative detection approach to multi-dimensional data analysis,"Yong Shi, Li Zhang",30,cross,cluster
+2011,Finding key attribute subset in dataset for outlier detection.,"Peng Yang, Qingsheng Zhu",28,cross,similarity
+2011,Anomaly Detection in Hyperspectral Images Based on an Adaptive Support Vector Method,"Safa Khazai, Saeid Homayouni, Abdolreza Safari, Barat Mojaradi",85,remote,model
+2011,Robust tensor subspace learning for anomaly detection,"Jie Li, Guan Han, Jing Wen, Xinbo Gao",43,remote,model
+2011,Patient classification as an outlier detection problem: An application of the One-Class Support Vector Machine,"Janaina Mourão Miranda, David R. Hardoon, Tim Hahn, Andre F. Marquand, Steven C. R. Williams, John Shawe-Taylor, Michael J. Brammer",83,health,model
+2011,Clustering ellipses for anomaly detection,"Masud Moshtaghi, Timothy C. Havens, James C. Bezdek, Laurence Anthony F. Park, Christopher Leckie, Sutharshan Rajasegarar, James M. Keller, Marimuthu Palaniswami",68,sense,cluster
+2011,Distributed anomaly detection using 1-class SVM for vertically partitioned data,"Kamalika Das, Kanishka Bhaduri, Petr Votava",21,cross,model
+2011,Anomaly Detection in Network Traffic Based on Statistical Inference and alpha-Stable Modeling,"Federico Simmross-Wattenberg, Juan I. Asensio-Pérez, Pablo Casaseca-de-la-Higuera, Marcos Martín-Fernández, Ioannis A. Dimitriadis, Carlos Alberola-López",70,ids,likelihood
+2011,Transaction-Pattern-Based Anomaly Detection Algorithm for IP Multimedia Subsystem,"Chi-Yuan Chen, Kai-Di Chang, Han-Chieh Chao",30,ids,model
+2011,Fast anomaly detection in hyperspectral images with RX method on heterogeneous clusters,"J. M. Molero, Abel Paz, Ester M. Garzón, J. A. Martínez, Antonio J. Plaza, Inmaculada García",24,remote,likelihood
+2011,Parametric methods for anomaly detection in aggregate traffic,"Gautam Thatte, Urbashi Mitra, John S. Heidemann",153,ids,likelihood
+2011,Spatiotemporal Models for Data-Anomaly Detection in Dynamic Environmental Monitoring Campaigns,"Ethan W. Dereszynski, Thomas G. Dietterich",58,sense,likelihood
+2011,Anomaly Detection for Cybersecurity of the Substations,"Chee-Wooi Ten, Junho Hong, Chen-Ching Liu",116,ids,frequency
+2011,Privacy-Preserving Outlier Detection Through Random Nonlinear Data Distortion,"Kanishka Bhaduri, Mark D. Stefanski, Ashok N. Srivastava",23,cross,similarity
+2011,Robust statistics for outlier detection,"Peter J. Rousseeuw, Mia Hubert",168,cross,n/a
+2011,Outlier detection,"Xiaogang Su, Chih-Ling Tsai",24,cross,n/a
+2011,Energy Outlier Detection in Smart Environments,"Chao Chen, Diane J. Cook",24,sense,cluster
+2011,A Survey of Outlier Detection Methodologies and Their Applications,"Zhixian Niu, Shuping Shi, Jingyu Sun, Xiu He",25,cross,similarity
+2011,Textures of optical flow for real-time anomaly detection in crowds,"David Ryan, Simon Denman, Clinton Fookes, Sridha Sridharan",76,remote,likelihood
+2011,Fuzzy logic based anomaly detection for embedded network security cyber sensor,"Ondrej Linda, Milos Manic, Todd Vollmer, Jason L. Wright",41,ids,cluster
+2011,"Sub-Space clustering, Inter-Clustering Results Association & anomaly correlation for unsupervised network anomaly detection","Johan Mazel, Pedro Casas, Yann Labit, Philippe Owezarski",36,ids,cluster
+2011,"Improved anomaly detection in crowded scenes via cell-based analysis of foreground speed, size and texture","Vikas Reddy, Conrad Sanderson, Brian C. Lovell",127,remote,likelihood
+2011,An Unbiased Distance-Based Outlier Detection Approach for High-Dimensional Data,"Hoang Vu Nguyen, Vivekanand Gopalkrishnan, Ira Assent",24,cross,similarity
+2011,A Neural Network Based Anomaly Intrusion Detection System,"Sufyan T. Faraj Al-Janabi, Hadeel Amjed Saeed",32,ids,model
+2011,Anomaly-based intrusion detection in software as a service,"Gustavo Nascimento, Miguel Correia",38,ids,n/a
+2011,Sequential Conformal Anomaly Detection in trajectories based on Hausdorff distance,"Rikard Laxhammar, Göran Falkman",37,remote,likelihood
+2011,Performance Metric Selection for Autonomic Anomaly Detection on Cloud Computing Systems,Song Fu,44,fault,model
+2011,Online Fault and Anomaly Detection for Large-Scale Scientific Workflows,"Taghrid Samak, Dan Gunter, Monte Goode, Ewa Deelman, Gideon Juve, Gaurang Mehta, Fabio Silva, Karan Vahi",24,fault,cluster
+2011,Using behavior models for anomaly detection in hybrid systems,"Asmir Vodencarevic, Hans Kleine Büning, Oliver Niggemann, Alexander Maier",35,fault,frequency
+2011,A Novel PCA-Based Network Anomaly Detection,"Christian Callegari, Loris Gazzarrini, Stefano Giordano, Michele Pagano, Teresa Pepe",31,ids,model
+2011,NADO: network anomaly detection using outlier approach,"Monowar H. Bhuyan, D. K. Bhattacharyya, Jugal K. Kalita",22,ids,cluster
+2011,Optimizing interaction force for global anomaly detection in crowded scenes,"R. Raghavendra, Alessio Del Bue, Marco Cristani, Vittorio Murino",64,remote,n/a
+2011,Outlier detection in graph streams,"Charu C. Aggarwal, Yuchen Zhao, Philip S. Yu",64,cross,likelihood
+2011,"Outlier detection on uncertain data: Objects, instances, and inferences","Bin Jiang, Jian Pei",25,cross,likelihood
+2011,Locality Sensitive Outlier Detection: A ranking driven approach,"Ye Wang, Srinivasan Parthasarathy, Shirish Tatikonda",48,cross,cluster
+2011,Unsupervised Anomaly Intrusion Detection via Localized Bayesian Feature Selection,"Wentao Fan, Nizar Bouguila, Djemel Ziou",22,ids,likelihood
+2011,Incremental Elliptical Boundary Estimation for Anomaly Detection in Wireless Sensor Networks,"Masud Moshtaghi, Christopher Leckie, Shanika Karunasekera, James C. Bezdek, Sutharshan Rajasegarar, Marimuthu Palaniswami",37,sense,likelihood
+2011,Discovering Emerging Topics in Social Streams via Link Anomaly Detection,"Toshimitsu Takahashi, Ryota Tomioka, Kenji Yamanishi",46,cross,likelihood
+2011,Direct Robust Matrix Factorizatoin for Anomaly Detection,"Liang Xiong, Xi Chen, Jeff G. Schneider",58,cross,model
+2011,Anomaly Detection in Production Plants using Timed Automata - Automated Learning of Models from Observations,"Alexander Maier, Oliver Niggemann, Roman Just, Michael Jäger, Asmir Vodencarevic",32,fault,model
+2011,Particle-based tracking model for automatic anomaly detection,"Erwan Jouneau, Cyril Carincotte",22,remote,likelihood
+2011,The practice on using machine learning for network anomaly intrusion detection,Yu-Xin Meng,30,ids,model
+2011,Real-time camera anomaly detection for real-world video surveillance,"Yuan-Kai Wang, Ching-Tang Fan, Ke-Yu Cheng, Peter Shaohua Deng",20,remote,likelihood
+2011,Fast Anomaly Detection for Streaming Data,"Swee Chuan Tan, Kai Ming Ting, Fei Tony Liu",69,cross,similarity
+2011,Statistical techniques for online anomaly detection in data centers,"Chengwei Wang, Krishnamurthy Viswanathan, Choudur Lakshminarayan, Vanish Talwar, Wade Satterfield, Karsten Schwan",106,fault,likelihood
+2011,A comparative study of two network-based anomaly detection methods,"Kaustubh Nyalkalkar, Sushant Sinha, Michael Bailey, Farnam Jahanian",31,ids,model
+2011,Entropy-based anomaly detection for in-vehicle networks,"Michael Müter, Naim Asaj",72,sense,likelihood
+2011,Algorithms for speeding up distance-based outlier detection,"Kanishka Bhaduri, Bryan L. Matthews, Chris Giannella",62,cross,similarity
+2011,UNADA: Unsupervised Network Anomaly Detection Using Sub-space Outliers Ranking,"Pedro Casas, Johan Mazel, Philippe Owezarski",32,ids,cluster
+2011,Group Anomaly Detection using Flexible Genre Models,"Liang Xiong, Barnabás Póczos, Jeff G. Schneider",42,cross,likelihood
+2011,Cross-Domain Collaborative Anomaly Detection: So Far Yet So Close,"Nathaniel Boggs, Sharath Hiremagalore, Angelos Stavrou, Salvatore J. Stolfo",31,ids,model
+2011,Revisiting Traffic Anomaly Detection Using Software Defined Networking,"Syed Akbar Mehdi, Junaid Khalid, Syed Ali Khayam",230,ids,n/a
+2011,Non-Negative Residual Matrix Factorization with Application to Graph Anomaly Detection,"Hanghang Tong, Ching-Yung Lin",73,cross,model
+2011,Power line carrier (PLC) signal analysis of smart meters for outlier detection,"Rakesh Rao, Srinivas Akella, Gokhan Guley",24,fault,likelihood
+2011,A Review of SCADA Anomaly Detection Systems,"Iñaki Garitano, Roberto Uribeetxeberria, Urko Zurutuza",33,ids,n/a
+2011,Traffic dispersion graph based anomaly detection,"Do Quoc Le, Taeyoel Jeong, H. Eduardo Roman, James Won-Ki Hong",20,ids,similarity
+2011,"Spatial Outlier Detection: Data, Algorithms, Visualizations","Elke Achtert, Ahmed Hettab, Hans-Peter Kriegel, Erich Schubert, Arthur Zimek",31,gis,n/a
+2011,The role of visualization and interaction in maritime anomaly detection,"Maria Riveiro, Göran Falkman",22,gis,n/a
+2011,TVi: a visual querying system for network monitoring and anomaly detection,"Alberto Boschetti, Luca Salgarelli, Chris Muelder, Kwan-Liu Ma",30,ids,similarity
+2011,A graph theoretic approach to anomaly detection in hyperspectral imagery,"David W. Messinger, James Albano",24,remote,similarity
+2011,Hierarchical Probabilistic Models for Group Anomaly Detection,"Liang Xiong, Barnabás Póczos, Jeff G. Schneider, Andrew J. Connolly, Jake VanderPlas",49,cross,likelihood
+2011,Moving Object Detection by Detecting Contiguous Outliers in the Low-Rank Representation,"Xiaowei Zhou, Can Yang, Weichuan Yu",340,remote,model
+2012,Exact Subspace Segmentation and Outlier Detection by Low-Rank Representation,"Guangcan Liu, Huan Xu, Shuicheng Yan",57,remote,model
+2012,An intelligent algorithm with feature selection and decision rules applied to anomaly intrusion detection,"Shih-Wei Lin, Kuo-Ching Ying, Chou-Yuan Lee, Zne-Jung Lee",134,ids,model
+2012,Outlier Detection in Cross-Context Link Discovery for Creative Literature Mining,"Ingrid Petric, Bojan Cestnik, Nada Lavrac, Tanja Urbancic",24,cross,similarity
+2012,Multi-scale and real-time non-parametric approach for anomaly detection and localization,"Marco Bertini, Alberto Del Bimbo, Lorenzo Seidenari",94,remote,likelihood
+2012,FRaC: a feature-modeling approach for semi-supervised and unsupervised anomaly detection,"Keith Noto, Carla E. Brodley, Donna K. Slonim",46,cross,likelihood
+2012,Statistical and signal-based network traffic recognition for anomaly detection,"Michal Choras, Lukasz Saganowski, Rafal Renk, Witold Holubowicz",32,ids,frequency
+2012,An autonomous labeling approach to support vector machines algorithms for network traffic anomaly detection,"Carlos Catania, Facundo Bromberg, Carlos García Garino",40,ids,model
+2012,Ensemble based sensing anomaly detection in wireless sensor networks,"Daniel-Ioan Curiac, Constantin Volosencu",37,sense,model
+2012,Statistics-based outlier detection for wireless sensor networks,"Y. Zhang, Nicholas A. S. Hamm, Nirvana Meratnia, Alfred Stein, M. van de Voort, Paul J. M. Havinga",101,sense,likelihood
+2012,Visual interactive evolutionary algorithm for high dimensional outlier detection and data clustering problems,Lydia Boudjeloud-Assala,20,cross,similarity
+2012,AOCD: An Adaptive Outlier Based Coordinated Scan Detection Approach,"Monowar H. Bhuyan, Dhruba K. Bhattacharyya, Jugal K. Kalita",23,ids,cluster
+2012,Adaptive Anomaly-Based Intrusion Detection System Using Fuzzy Controller,"Farzaneh Geramiraz, Amir Saman Memaripour, Maghsoud Abbaspour",21,ids,rule
+2012,Parallel Misuse and Anomaly Detection Model,"Radhika Goel, Anjali Sardana, Ramesh C. Joshi",29,ids,model
+2012,Workflow mining and outlier detection from clinical activity logs,"Loubna Bouarfa, Jenny Dankelman",55,health,similarity
+2012,Usage of Modified Holt-Winters Method in the Anomaly Detection of Network Traffic: Case Studies,"Maciej Szmit, Anna Szmit",21,ids,model
+2012,Hyperspectral Anomaly Detection: Comparative Evaluation in Scenes with Diverse Complexity,"Dirk Borghys, Ingebjørg Kåsen, Véronique Achard, Christiaan Perneel",21,remote,n/a
+2012,Community-based anomaly detection in evolutionary networks,"Zhengzhang Chen, William Hendrix, Nagiza F. Samatova",54,cross,n/a
+2012,Security analysis of online centroid anomaly detection,"Marius Kloft, Pavel Laskov",35,ids,cluster
+2012,A-GHSOM: An adaptive growing hierarchical self organizing map for network anomaly detection,"Dennis Ippoliti, Xiaobo Zhou",27,ids,model
+2012,Density-preserving projections for large-scale local anomaly detection,"Timothy de Vries, Sanjay Chawla, Michael E. Houle",32,cross,similarity
+2012,An efficient negative selection algorithm with further training for anomaly detection,"Maoguo Gong, Jian Zhang, Jingjing Ma, Licheng Jiao",71,cross,similarity
+2012,Sparse Kernel-Based Hyperspectral Anomaly Detection,"Prudhvi Gurram, Heesung Kwon, Timothy Han",32,cross,model
+2012,Outlier detection in high-density surface electromyographic signals,"Hamid R. Marateb, Monica Rojas-Martínez, Marjan Mansourian, Roberto Merletti, Miguel A. Mañanas Villanueva",29,health,similarity
+2012,Adaptive ROC-based ensembles of HMMs applied to anomaly detection,"Wael Khreich, Eric Granger, Ali Miri, Robert Sabourin",50,ids,likelihood
+2012,A survey on unsupervised outlier detection in high-dimensional numerical data,"Arthur Zimek, Erich Schubert, Hans-Peter Kriegel",254,cross,n/a
+2012,Detecting signals of new technological opportunities using semantic patent analysis and outlier detection,"Janghyeok Yoon, Kwangsoo Kim",96,others,similarity
+2012,Outlier Detection in Functional Observations With Applications to Profile Monitoring,"Guan Yu, Changliang Zou, Zhaojun Wang",38,cross,likelihood
+2012,Large-scale IP network behavior anomaly detection and identification using substructure-based approach and multivariate time series mining,"Weisong He, Guangmin Hu, Yingjie Zhou",21,ids,frequency
+2012,Magnetic Anomaly Detection Using High-Order Crossing Method,"Arie Sheinker, Boris Ginzburg, Nizan Salomonski, Phineas A. Dickstein, Lev Frumkis, Ben-Zion Kaplan",30,gis,frequency
+2012,Anomaly Detection and Reconstruction From Random Projections,"James E. Fowler, Qian Du",70,remote,model
+2012,Sequential Anomaly Detection in the Presence of Noise and Limited Feedback,"Maxim Raginsky, Rebecca M. Willett, Corinne Horn, Jorge G. Silva, Roummel F. Marcia",42,cross,likelihood
+2012,Isolation-Based Anomaly Detection,"Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou",140,cross,similarity
+2012,Anomaly Detection for Discrete Sequences: A Survey,"Varun Chandola, Arindam Banerjee, Vipin Kumar",285,cross,n/a
+2012,A Performance Anomaly Detection and Analysis Framework for DBMS Development,"Donghun Lee, Sang K. Cha, Arthur H. Lee",22,fault,likelihood
+2012,A Review of Anomaly Detection in Automated Surveillance,"Angela A. Sodemann, Matthew P. Ross, Brett J. Borghetti",85,remote,n/a
+2012,A Healthcare Utilization Analysis Framework for Hot Spotting and Contextual Anomaly Detection,"Jianying Hu, Fei Wang, Jimeng Sun, Robert Sorrentino, Shahram Ebadollahi",25,health,similarity
+2012,Spatiotemporal anomaly detection through visual analysis of geolocated Twitter messages,"Dennis Thom, Harald Bosch, Steffen Koch, Michael Wörner, Thomas Ertl",123,gis,cluster
+2012,Network Anomaly Detection Using Co-clustering,"Evangelos E. Papalexakis, Alex Beutel, Peter Steenkiste",35,ids,cluster
+2012,An Ensemble of Rejecting Classifiers for Anomaly Detection of Audio Events,"Donatello Conte, Pasquale Foggia, Gennaro Percannella, Alessia Saggese, Mario Vento",21,remote,model
+2012,Aircraft anomaly detection using performance models trained on fleet data,"Dimitry Gorinevsky, Bryan L. Matthews, Rodney Martin",22,fault,model
+2012,Fast and reliable anomaly detection in categorical data,"Leman Akoglu, Hanghang Tong, Jilles Vreeken, Christos Faloutsos",54,cross,model
+2012,Embedded Cyber-Physical Anomaly Detection in Smart Meters,"Massimiliano Raciti, Simin Nadjm-Tehrani",20,sense,cluster
+2012,Video anomaly detection based on local statistical aggregates,"Venkatesh Saligrama, Zhu Chen",154,remote,likelihood
+2012,A Contextual Anomaly Detection Approach to Discover Zero-Day Attacks,"Ahmed AlEroud, George Karabatis",23,ids,similarity
+2012,AnyOut: Anytime Outlier Detection on Streaming Data,"Ira Assent, Philipp Kranen, Corinna Baldauf, Thomas Seidl",59,cross,cluster
+2012,Towards periodicity based anomaly detection in SCADA networks,"Rafael Ramos Regis Barbosa, Ramin Sadre, Aiko Pras",40,ids,model
+2012,Detectors Generation using Genetic Algorithm for a Negative Selection Inspired Anomaly Network Intrusion Detection System,"Amira Sayed A. Aziz, Mostafa A. Salama, Aboul Ella Hassanien, Sanaa El-Ola Hanafi",22,ids,similarity
+2012,Maritime anomaly detection using Gaussian Process active learning,"Kira Kowalska, Leto Peel",38,gis,likelihood
+2012,HTOutlier: Hardware Trojan detection with side-channel signature outlier identification,"Jie Zhang, Haile Yu, Qiang Xu",24,ids,similarity
+2012,An effective unsupervised network anomaly detection method,"Monowar H. Bhuyan, D. K. Bhattacharyya, Jugal K. Kalita",26,ids,cluster
+2012,An improved Hidden Markov Model for anomaly detection using frequent common patterns,"Afroza Sultana, Abdelwahab Hamou-Lhadj, Mario Couture",20,ids,likelihood
+2012,Outlier Detection in Arbitrarily Oriented Subspaces,"Hans-Peter Kriegel, Peer Kröger, Erich Schubert, Arthur Zimek",63,cross,likelihood
+2012,Granger Causality for Time-Series Anomaly Detection,"Huida Qiu, Yan Liu, Niranjan A. Subrahmanya, Weichang Li",28,cross,likelihood
+2012,Practical anomaly detection based on classifying frequent traffic patterns,"Ignasi Paredes-Oliva, Ismael Castell-Uroz, Pere Barlet-Ros, Xenofontas A. Dimitropoulos, Josep Solé-Pareta",30,ids,model
+2012,Robust feature selection and robust PCA for internet traffic anomaly detection,"Cláudia Pascoal, Maria Rosário de Oliveira, Rui Valadas, Peter Filzmoser, Paulo Salvador, António Pacheco",41,ids,model
+2012,Argus: End-to-end service anomaly detection and localization from an ISP's point of view,"He Yan, Ashley Flavel, Zihui Ge, Alexandre Gerber, Daniel Massey, Christos Papadopoulos, Hiren Shah, Jennifer Yates",40,ids,frequency
+2012,Integrating community matching and outlier detection for mining evolutionary community outliers,"Manish Gupta, Jing Gao, Yizhou Sun, Jiawei Han",88,cross,n/a
+2012,A near-linear time approximation algorithm for angle-based outlier detection in high-dimensional data,"Ninh Pham, Rasmus Pagh",78,cross,similarity
+2012,Smarter outlier detection and deeper understanding of large-scale taxi trip records: a case study of NYC,Jianting Zhang,20,gis,frequency
+2012,Anomaly Teletraffic Intrusion Detection Systems on Hadoop-Based Platforms: A Survey of Some Problems and Solutions,"Hae-Duck Joshua Jeong, WooSeok Hyun, Jiyoung Lim, Ilsun You",23,ids,n/a
+2012,Unsupervised Clustering Approach for Network Anomaly Detection,"Iwan Syarif, Adam Prügel-Bennett, Gary Wills",48,ids,cluster
+2012,Multi-criteria Anomaly Detection using Pareto Depth Analysis,"Ko-Jen Hsiao, Kevin S. Xu, Jeff Calder, Alfred O. Hero III",30,cross,similarity
+2012,Community Trend Outlier Detection Using Soft Temporal Pattern Mining,"Manish Gupta, Jing Gao, Yizhou Sun, Jiawei Han",56,cross,n/a
+2012,An automatic satellite image registration technique based on Harris corner detection and Random Sample Consensus (RANSAC) outlier rejection model,"Indranil Misra, S. Manthira Moorthi, Debajyoti Dhar, R. Ramakrishnan",41,remote,likelihood
+2012,A hybrid system for reducing the false alarm rate of anomaly intrusion detection system,"Hari Om, Aritra Kundu",84,ids,likelihood
+2012,Fast Robustness Estimation in Large Social Graphs: Communities and Anomaly Detection,"Fragkiskos D. Malliaros, Vasileios Megalooikonomou, Christos Faloutsos",25,cross,n/a
+2012,User Intention-Based Traffic Dependence Analysis for Anomaly Detection,"Hao Zhang, William Banick, Danfeng Yao, Naren Ramakrishnan",30,ids,model
+2012,AAD: Adaptive Anomaly Detection System for Cloud Computing Infrastructures,"Husanbir S. Pannu, Jianguo Liu, Song Fu",25,fault,model
+2012,Histogram-Based Online Anomaly Detection in Hierarchical Wireless Sensor Networks,"Miao Xie, Jiankun Hu, Biming Tian",28,sense,likelihood
+2012,Wireless Smart Home Sensor Networks: Mobile Agent Based Anomaly Detection,"Muhammad Usman, Vallipuram Muthukkumarasamy, Xin-Wen Wu, Surraya Khanum",22,sense,likelihood
+2012,Quarter-Sphere SVM: Attribute and Spatio-Temporal correlations based Outlier & Event Detection in wireless sensor networks,"Nauman Shahid, Ijaz Haider Naqvi, Saad B. Qaisar",37,sense,model
+2012,Local Anomaly Detection,"Venkatesh Saligrama, Manqi Zhao",31,cross,likelihood
+2012,Anomaly Detection in Water Management Systems,"Massimiliano Raciti, Jordi Cucurull, Simin Nadjm-Tehrani",27,sense,cluster
+2013,Distributed online outlier detection in wireless sensor networks using ellipsoidal support vector machine,"Yang Zhang, Nirvana Meratnia, Paul J. M. Havinga",67,sense,model
+2013,Distribution-based anomaly detection via generalized likelihood ratio test: A general Maximum Entropy approach,"Angelo Coluccia, Alessandro D'Alconzo, Fabio Ricciato",28,ids,likelihood
+2013,ADMIRE: Anomaly detection method using entropy-based PCA with three-step sketches,"Yoshiki Kanda, Romain Fontugne, Kensuke Fukuda, Toshiharu Sugawara",21,ids,model
+2013,SIPAD: SIP-VoIP Anomaly Detection using a Stateful Rule Tree,"Dongwon Seo, Heejo Lee, Ejovi Nuwere",27,ids,rule
+2013,Statistical wavelet-based anomaly detection in big data with compressive sensing,"Wei Wang, Dunqiang Lu, Xin Zhou, Baoju Zhang, Jiasong M",21,cross,frequency
+2013,Vessel Pattern Knowledge Discovery from AIS Data: A Framework for Anomaly Detection and Route Prediction,"Giuliana Pallotta, Michele Vespe, Karna Bryan",177,gis,likelihood
+2013,Anomaly detection of cooling fan and fault classification of induction motor using Mahalanobis-Taguchi system,"Xiaohang Jin, Tommy W. S. Chow",39,fault,similarity
+2013,Open data for anomaly detection in maritime surveillance,"Samira Kazemi, Shahrooz Abghari, Niklas Lavesson, Henric Johnson, Peter Ryman",36,gis,rule
+2013,Network Traffic Features for Anomaly Detection in Specific Industrial Control System Network,"Matti Mantere, Mirko Sailio, Sami Noponen",21,ids,cluster
+2013,Spatial outlier detection based on iterative self-organizing learning model,"Qiao Cai, Haibo He, Hong Man",29,gis,cluster
+2013,Network anomaly detection with the restricted Boltzmann machine,"Ugo Fiore, Francesco Palmieri, Aniello Castiglione, Alfredo De Santis",117,ids,likelihood
+2013,Scalable Anomaly Detection for Smart City Infrastructure Networks,"Djellel Eddine Difallah, Philippe Cudré-Mauroux, Sean A. McKenna",24,sense,similarity
+2013,Algorithms for anomaly detection of traces in logs of process aware information systems,"Fábio de Lima Bezerra, Jacques Wainer",33,others,n/a
+2013,Enhancing density-based clustering: Parameter reduction and outlier detection,"Carmelo Cassisi, Alfredo Ferro, Rosalba Giugno, Giuseppe Pigola, Alfredo Pulvirenti",56,cross,cluster
+2013,Toward a more practical unsupervised anomaly detection system,"Jungsuk Song, Hiroki Takakura, Yasuo Okabe, Koji Nakao",69,ids,cluster
+2013,Energy-aware and self-adaptive anomaly detection scheme based on network tomography in mobile ad hoc networks,"Wei Wang, Huiran Wang, Beizhan Wang, Yaping Wang, Jiajun Wang",20,ids,model
+2013,Application of density-based outlier detection to database activity monitoring,"Seung Kim, Nam Wook Cho, Youngjoo Lee, Suk-Ho Kang, Taewan Kim, Hyeseon Hwang, Dongseop Mun",20,others,similarity
+2013,Toward Supervised Anomaly Detection,"Nico Görnitz, Marius Kloft, Konrad Rieck, Ulf Brefeld",79,cross,model
+2013,Outlier detection for patient monitoring and alerting,"Milos Hauskrecht, Iyad Batal, Michal Valko, Shyam Visweswaran, Gregory F. Cooper, Gilles Clermont",62,health,likelihood
+2013,Anomaly Detection in Medical Wireless Sensor Networks,"Osman Salem, Yaning Liu, Ahmed Mehaoua",21,sense,likelihood
+2013,Distributed anomaly detection for industrial wireless sensor networks based on fuzzy data modelling,"Heshan Kumarage, Ibrahim Khalil, Zahir Tari, Albert Y. Zomaya",37,sense,cluster
+2013,Multiscale Anomaly Detection Using Diffusion Maps,"Gal Mishne, Israel Cohen",25,gis,model
+2013,Anomaly Detection in Time Series of Graphs using Fusion of Graph Invariants,"Youngser Park, Carey E. Priebe, Abdou Youssef",27,cross,n/a
+2013,Efficient Computer Network Anomaly Detection by Changepoint Detection Methods,"Alexander G. Tartakovsky, Aleksey S. Polunchenko, Grigory Sokolov",75,ids,likelihood
+2013,Context-Aware Activity Recognition and Anomaly Detection in Video,"Yingying Zhu, Nandita M. Nayak, Amit K. Roy-Chowdhury",60,remote,similarity
+2013,SVDD-based outlier detection on uncertain data,"Bo Liu, Yanshan Xiao, Longbing Cao, Zhifeng Hao, Feiqi Deng",74,cross,model
+2013,Anomaly intrusion detection based on PLS feature extraction and core vector machine,"Xusheng Gan, Jing-shun Duanmu, Jia-fu Wang, Wei Cong",39,ids,model
+2013,Outlier detection on uncertain data based on local information,"Jing Liu, Huifang Deng",23,cross,similarity
+2013,Moving Object Detection by Detecting Contiguous Outliers in the Low-Rank Representation,"Xiaowei Zhou, Can Yang, Weichuan Yu",342,remote,model
+2013,On-line anomaly detection and resilience in classifier ensembles,"Hesam Sagha, Hamidreza Bayati, José del R. Millán, Ricardo Chavarriaga",26,cross,model
+2013,Using Low Resolution Satellite Imagery for Yield Prediction and Yield Anomaly Detection,"Felix Rembold, Clement Atzberger, Igor V. Savin, Oscar Rojas",130,remote,n/a
+2013,FTDA: outlier detection-based fault-tolerant data aggregation for wireless sensor networks,"Suat Ozdemir, Yang Xiao",27,sense,similarity
+2013,Advancements of Data Anomaly Detection Research in Wireless Sensor Networks: A Survey and Open Issues,"Murad A. Rassam, Anazida Zainal, Mohd Aizaini Maarof",35,sense,n/a
+2013,Research issues in outlier detection for data streams,"Md. Shiblee Sadik, Le Gruenwald",31,cross,n/a
+2013,Ensembles for unsupervised outlier detection: challenges and research questions a position paper,"Arthur Zimek, Ricardo J. G. B. Campello, Jörg Sander",94,cross,n/a
+2013,Advancements of Outlier Detection: A Survey,Ji Zhang,57,cross,n/a
+2013,Anomaly Detection Based Secure In-Network Aggregation for Wireless Sensor Networks,"Bo Sun, Xuemei Shan, Kui Wu, Yang Xiao",54,sense,likelihood
+2013,MedMon: Securing Medical Devices Through Wireless Monitoring and Anomaly Detection,"Meng Zhang, Anand Raghunathan, Niraj K. Jha",54,sense,rule
+2013,AutoGAD: An Improved ICA-Based Hyperspectral Anomaly Detection Algorithm,"Robert J. Johnson, Jason P. Williams, Kenneth W. Bauer Jr.",23,remote,model
+2013,Models and Methods for Automated Background Density Estimation in Hyperspectral Anomaly Detection,"Stefania Matteoli, Tiziana Veracini, Marco Diani, Giovanni Corsini",33,remote,likelihood
+2013,A Compressed PCA Subspace Method for Anomaly Detection in High-Dimensional Data,"Qi Ding, Eric D. Kolaczyk",33,cross,model
+2013,Anomaly Detection via Online Oversampling Principal Component Analysis,"Yuh-Jye Lee, Yi-Ren Yeh, Yu-Chiang Frank Wang",105,cross,model
+2013,Information-Theoretic Outlier Detection for Large-Scale Categorical Data,"Shu Wu, Shengrui Wang",70,cross,frequency
+2013,Scalable Hypergrid k-NN-Based Online Anomaly Detection in Wireless Sensor Networks,"Miao Xie, Jiankun Hu, Song Han, Hsiao-Hwa Chen",60,sense,similarity
+2013,Online Anomaly Detection for Hard Disk Drives Based on Mahalanobis Distance,"Yu Wang, Qiang Miao, Eden W. M. Ma, Kwok-Leung Tsui, Michael G. Pecht",41,fault,likelihood
+2013,"A scalable, non-parametric anomaly detection framework for Hadoop","Li Yu, Zhiling Lan",21,fault,cluster
+2013,Network traffic anomaly detection using clustering techniques and performance comparison,"Duo Liu, Chung-Horng Lung, Ioannis Lambadaris, Nabil Seddigh",21,ids,cluster
+2013,A close look on n-grams in intrusion detection: anomaly detection vs. classification,"Christian Wressnegger, Guido Schwenk, Daniel Arp, Konrad Rieck",56,ids,n/a
+2013,Network anomaly detection: A survey and comparative analysis of stochastic and deterministic methods,"Jing Wang, Daniel Rossell, Christos G. Cassandras, Ioannis Ch. Paschalidis",22,ids,n/a
+2013,Anomaly Detection in IaaS Clouds,"Frank Dölitzscher, Martin Knahl, Christoph Reich, Nathan L. Clarke",23,ids,model
+2013,An adaptive flow counting method for anomaly detection in SDN,Ying Zhang,107,ids,rule
+2013,"Profile-Based, Load-Independent Anomaly Detection and Analysis in Performance Regression Testing of Software Systems","Shadi Ghaith, Miao Wang, Philip Perry, John Murphy",21,fault,similarity
+2013,Object-Centric Anomaly Detection by Attribute-Based Reasoning,"Babak Saleh, Ali Farhadi, Ahmed M. Elgammal",36,cross,likelihood
+2013,Anomaly Detection via One Class SVM for Protection of SCADA Systems,"Jianmin Jiang, Lasith Yasakethu",20,ids,model
+2013,Machine learning-based anomaly detection for post-silicon bug diagnosis,"Andrew DeOrio, Qingkun Li, Matthew Burgess, Valeria Bertacco",25,fault,cluster
+2013,An improved anomaly detection and diagnosis framework for mobile network operators,Szabolcs Nováczki,37,fault,likelihood
+2013,Network traffic anomaly detection based on growing hierarchical SOM,"Shin-Ying Huang, Yennun Huang",20,ids,model
+2013,Sensor fault and patient anomaly detection and classification in medical wireless sensor networks,"Osman Salem, Alexey Guerassimov, Ahmed Mehaoua, Anthony Marcus, Borko Furht",43,health,model
+2013,Flow-Based Anomaly Detection Using Neural Network Optimized with GSA Algorithm,"Zahra Jadidi, Vallipuram Muthukkumarasamy, Elankayer Sithirasenan, Mansour Sheikhan",37,ids,model
+2013,Outlier Detection in Non-intrusive ECG Biometric System,"André Lourenço, Hugo Silva, Carlos Carreiras, Ana L. N. Fred",27,health,similarity
+2013,Anomaly detection in time series data using a fuzzy c-means clustering,"Hesam Izakian, Witold Pedrycz",28,cross,cluster
+2013,One-Class Conditional Random Fields for Sequential Anomaly Detection,"Yale Song, Zhen Wen, Ching-Yung Lin, Randall Davis",22,cross,likelihood
+2013,Mobile Network Anomaly Detection and Mitigation: The NEMESYS Approach,"Omer H. Abdelrahman, Erol Gelenbe, Gökçe Görbil, Boris Oklander",35,ids,n/a
+2013,"Efficient anomaly detection in dynamic, attributed graphs: Emerging phenomena and big data","Benjamin A. Miller, Nicholas Arcolano, Nadya T. Bliss",31,cross,likelihood
+2013,A host-based anomaly detection approach by representing system calls as states of kernel modules,"Syed Shariyar Murtaza, Wael Khreich, Abdelwahab Hamou-Lhadj, Mario Couture",28,ids,likelihood
+2013,Subsampling for efficient and effective unsupervised outlier detection ensembles,"Arthur Zimek, Matthew Gaudet, Ricardo J. G. B. Campello, Jörg Sander",80,cross,similarity
+2013,Sparse coding with anomaly detection,"Amir Adler, Michael Elad, Yacov Hel-Or, Ehud Rivlin",47,cross,model
+2013,Near-optimal Anomaly Detection in Graphs using Lovasz Extended Scan Statistic,"James Sharpnack, Akshay Krishnamurthy, Aarti Singh",33,cross,likelihood
+2013,Rapid Distance-Based Outlier Detection via Sampling,"Mahito Sugiyama, Karsten M. Borgwardt",44,cross,similarity
+2013,Local Outlier Detection with Interpretation,"Xuan-Hong Dang, Barbora Micenková, Ira Assent, Raymond T. Ng",20,cross,similarity
+2013,Community Distribution Outlier Detection in Heterogeneous Information Networks,"Manish Gupta, Jing Gao, Jiawei Han",29,cross,cluster
+2013,CMI: An Information-Theoretic Contrast Measure for Enhancing Subspace Cluster and Outlier Detection,"Klemens Böhm, Fabian Keller, Emmanuel Müller, Hoang Vu Nguyen, Jilles Vreeken",36,cross,similarity
+2013,k-means-: A Unified Approach to Clustering and Outlier Detection,"Sanjay Chawla, Aristides Gionis",87,cross,cluster
+2013,Instance-based Anomaly Method for Android Malware Detection,"Borja Sanz, Igor Santos, Xabier Ugarte-Pedrero, Carlos Laorden, Javier Nieves, Pablo García Bringas",20,ids,similarity
+2013,Continuous outlier detection in data streams: an extensible framework and state-of-the-art algorithms,"Dimitrios Georgiadis, Maria Kontaki, Anastasios Gounaris, Apostolos N. Papadopoulos, Kostas Tsichlas, Yannis Manolopoulos",21,cross,similarity
+2013,A Robust Anomaly Detection in Pantograph-Catenary System Based on Mean-Shift Tracking and Foreground Detection,"Ilhan Aydin, Mehmet Karaköse, Erhan Akin",30,fault,likelihood
+2013,One-Class Support Measure Machines for Group Anomaly Detection,"Krikamol Muandet, Bernhard Schölkopf",37,cross,likelihood
+2013,"Anomaly, event, and fraud detection in large network datasets","Leman Akoglu, Christos Faloutsos",29,cross,n/a
+2013,A Methodological Overview on Anomaly Detection,"Christian Callegari, Angelo Coluccia, Alessandro D'Alconzo, Wendy Ellens, Stefano Giordano, Michel Mandjes, Michele Pagano, Teresa Pepe, Fabio Ricciato, Piotr Zuraniewski",27,ids,n/a
+2013,Entropy based Anomaly Detection System to Prevent DDoS Attacks in Cloud,"A. S. Syed Navaz, V. Sangeetha, C. Prabhadevi",60,ids,likelihood
+2014,Outlier Detection for Temporal Data,"Manish Gupta, Jing Gao, Charu C. Aggarwal, Jiawei Han",103,cross,n/a
+2014,Anomaly detection/detectability for a linear model with a bounded nuisance parameter,"Fouzi Harrou, Lionel Fillatre, Igor V. Nikiforov",20,fault,likelihood
+2014,Anomaly detection for visual analytics of power consumption data,"Halldór Janetzko, Florian Stoffel, Sebastian Mittelstädt, Daniel A. Keim",31,sense,n/a
+2014,Visual Analysis of Time-Series Similarities for Anomaly Detection in Sensor Networks,"Martin Steiger, Jürgen Bernard, Sebastian Mittelstädt, Hendrik Lücke-Tieke, Daniel A. Keim, Thorsten May, Jörn Kohlhammer",32,sense,similarity
+2014,Combining OpenFlow and sFlow for an effective and scalable anomaly detection and mitigation mechanism on SDN environments,"Kostas Giotis, Christos Argyropoulos, Georgios Androulidakis, Dimitrios Kalogeras, Vasilis Maglaris",178,ids,likelihood
+2014,An unsupervised anomaly-based detection approach for integrity attacks on SCADA systems,"Abdulmohsen Almalawi, Xinghuo Yu, Zahir Tari, Adil Fahad, Ibrahim Khalil",39,ids,cluster
+2014,"Network Anomaly Detection: Methods, Systems and Tools","Monowar H. Bhuyan, D. K. Bhattacharyya, Jugal K. Kalita",391,ids,n/a
+2014,Anomaly Detection in Wireless Sensor Networks in a Non-Stationary Environment,"Colin O'Reilly, Alexander Gluhak, Muhammad Ali Imran, Sutharshan Rajasegarar",36,sense,n/a
+2014,A distributed approach to network anomaly detection based on independent component analysis,"Francesco Palmieri, Ugo Fiore, Aniello Castiglione",63,ids,model
+2014,Anomaly detection in large-scale data stream networks,"Duc-Son Pham, Svetha Venkatesh, Mihai Lazarescu, Budhaditya Saha",39,cross,model
+2014,"Local outlier detection reconsidered: a generalized view on locality with applications to spatial, video, and network outlier detection","Erich Schubert, Arthur Zimek, Hans-Peter Kriegel",118,cross,n/a
+2014,Discrete shearlet transform on GPU with applications in anomaly detection and denoising,"Xavier Gibert, Vishal M. Patel, Demetrio Labate, Rama Chellappa",26,remote,model
+2014,A novel hybrid intrusion detection method integrating anomaly detection with misuse detection,"Gisung Kim, Seungmin Lee, Sehun Kim",180,ids,model
+2014,Anomaly detection in vessel tracks using Bayesian networks,"Steven Mascaro, Ann E. Nicholson, Kevin B. Korb",71,gis,likelihood
+2014,Improving PCA-based anomaly detection by using multiple time scale analysis and Kullback-Leibler divergence,"Christian Callegari, Loris Gazzarrini, Stefano Giordano, Michele Pagano, Teresa Pepe",30,ids,model
+2014,Anomaly Detection in Medical Wireless Sensor Networks using SVM and Linear Regression Models,"Osman Salem, Alexey Guerassimov, Ahmed Mehaoua, Anthony Marcus, Borko Furht",22,health,model
+2014,Video anomaly detection based on a hierarchical activity discovery within spatio-temporal contexts,"Dan Xu, Rui Song, Xinyu Wu, Nannan Li, Wei Feng, Huihuan Qian",38,remote,likelihood
+2014,Outlier detection in audit logs for application systems,"Horacio D. Kuna, Ramón García-Martínez, Francisco R. Villatoro",22,others,n/a
+2014,Anomaly secure detection methods by analyzing dynamic characteristics of the network traffic in cloud communications,"Wei Xiong, Hanping Hu, Naixue Xiong, Laurence T. Yang, Wen-Chih Peng, Xiaofei Wang, Yanzhen Qu",41,ids,model
+2014,Adaptive fuzzy clustering based anomaly data detection in energy system of steel industry,"Jun Zhao, Kai Liu, Wei Wang, Ying Liu",22,fault,similarity
+2014,A transform domain-based anomaly detection approach to network-wide traffic,"Dingde Jiang, Zhengzheng Xu, Peng Zhang, Ting Zhu",112,ids,model
+2014,Anomaly Detection in Computer Networks: A State-of-the-Art Review,"Sherenaz W. Al-Haj Baddar, Alessio Merlo, Mauro Migliardi",23,ids,n/a
+2014,Hyperspherical cluster based distributed anomaly detection in wireless sensor networks,"Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami",47,sense,cluster
+2014,Workload-aware anomaly detection for Web applications,"Tao Wang, Jun Wei, Wenbo Zhang, Hua Zhong, Tao Huang",28,fault,similarity
+2014,Feature selection by multi-objective optimisation: Application to network anomaly detection by hierarchical self-organising maps,"Emiro de la Hoz Franco, Eduardo de la Hoz Correa, Andrés Ortiz, Julio Ortega, Antonio Martínez-Álvarez",59,ids,model
+2014,Robust outlier detection using the instability factor,"Jihyun Ha, Seulgi Seok, Jong-Seok Lee",22,cross,similarity
+2014,Local Sparsity Divergence for Hyperspectral Anomaly Detection,"Zongze Yuan, Hao Sun, Kefeng Ji, Zhiyong Li, Huanxin Zou",28,remote,model
+2014,Two-stage online inference model for traffic pattern analysis and anomaly detection,"Hawook Jeong, Young Joon Yoo, Kwang Moo Yi, Jin Young Choi",21,gis,likelihood
+2014,Flow-based anomaly detection in high-speed links using modified GSA-optimized neural network,"Mansour Sheikhan, Zahra Jadidi",32,ids,model
+2014,Domain Anomaly Detection in Machine Perception: A System Architecture and Taxonomy,"Josef Kittler, William J. Christmas, Teofilo de Campos, David Windridge, Fei Yan, John Illingworth, Magda Osman",23,cross,likelihood
+2014,Online Learning and Sequential Anomaly Detection in Trajectories,"Rikard Laxhammar, Göran Falkman",47,cross,likelihood
+2014,Anomaly Detection and Localization in Crowded Scenes,"Weixin Li, Vijay Mahadevan, Nuno Vasconcelos",272,remote,likelihood
+2014,Entropy-based outlier detection using semi-supervised approach with few positive examples,"Armin Daneshpazhouh, Ashkan Sami",35,cross,likelihood
+2014,Contextual anomaly detection in crowded surveillance scenes,"Michael J. V. Leach, Ed P. Sparks, Neil Martin Robertson",29,remote,similarity
+2014,A least-squares approach to anomaly detection in static and sequential data,"John A. Quinn, Masashi Sugiyama",27,cross,likelihood
+2014,Anomaly detection in online social networks,"David Savage, Xiuzhen Zhang, Xinghuo Yu, Pauline Lienhua Chou, Qingmai Wang",82,cross,n/a
+2014,Real-time causal processing of anomaly detection for hyperspectral imagery,"Shih-Yu Chen, Yulei Wang, Chao-Cheng Wu, Chunhong Liu, Chein-I Chang",26,remote,likelihood
+2014,Adaptive Sparse Representations for Video Anomaly Detection,"Xuan Mo, Vishal Monga, Raja Bala, Zhigang Fan",52,remote,model
+2014,A Framework for Periodic Outlier Pattern Detection in Time-Series Sequences,"Faraz Rasheed, Reda Alhajj",26,cross,frequency
+2014,Anomaly Detection and Characterization in Spatial Time Series Data: A Cluster-Centric Approach,"Hesam Izakian, Witold Pedrycz",33,cross,cluster
+2014,A Discriminative Metric Learning Based Anomaly Detection Method,"Bo Du, Liangpei Zhang",144,remote,model
+2014,Ship Detection in High-Resolution Optical Imagery Based on Anomaly Detector and Local Shape Feature,"Zhenwei Shi, Xinran Yu, Zhiguo Jiang, Bo Li",61,gis,model
+2014,Anomaly Detection of Light-Emitting Diodes Using the Similarity-Based Metric Test,"Moon-Hwan Chang, Chaochao Chen, Diganta Das, Michael G. Pecht",24,fault,cluster
+2014,Mining Building Energy Management System Data Using Fuzzy Anomaly Detection and Linguistic Descriptions,"Dumidu Wijayasekara, Ondrej Linda, Milos Manic, Craig G. Rieger",53,fault,cluster
+2014,Online Anomaly Detection in Wireless Body Area Networks for Reliable Healthcare Monitoring,"Osman Salem, Yaning Liu, Ahmed Mehaoua, Raouf Boutaba",30,health,model
+2014,"Rough Sets, Kernel Set, and Spatiotemporal Outlier Detection","Alessia Albanese, Sankar K. Pal, Alfredo Petrosino",39,cross,similarity
+2014,Outlier Detection for Temporal Data: A Survey,"Manish Gupta, Jing Gao, Charu C. Aggarwal, Jiawei Han",278,cross,n/a
+2014,An Efficient Approach for Outlier Detection with Imperfect Data Labels,"Bo Liu, Yanshan Xiao, Philip S. Yu, Zhifeng Hao, Longbing Cao",38,cross,n/a
+2014,Discovering Emerging Topics in Social Streams via Link-Anomaly Detection,"Toshimitsu Takahashi, Ryota Tomioka, Kenji Yamanishi",48,cross,likelihood
+2014,An Online Outlier Identification and Removal Scheme for Improving Fault Detection Performance,"Hasan Ferdowsi, Sarangapani Jagannathan, Maciej J. Zawodniok",22,fault,model
+2014,Multicamera video summarization and anomaly detection from activity motifs,"Carter De Leo, Bangalore S. Manjunath",25,remote,likelihood
+2014,Integrated Anomaly Detection for Cyber Security of the Substations,"Junho Hong, Chen-Ching Liu, Manimaran Govindarasu",61,ids,frequency
+2014,Locality Statistics for Anomaly Detection in Time Series of Graphs,"Heng Wang, Minh Tang, Youngser Park, Carey E. Priebe",53,cross,likelihood
+2014,Outlier detection from large distributed databases,"Ji Zhang, Xiaohui Tao, Hua Wang",21,cross,similarity
+2014,Mention-anomaly-based Event Detection and tracking in Twitter,"Adrien Guille, Cécile Favre",36,cross,frequency
+2014,Contextual Anomaly Detection in Big Sensor Data,"Michael A. Hayes, Miriam A. M. Capretz",37,cross,likelihood
+2014,Temporal Anomaly Detection in Business Processes,"Andreas Rogge-Solti, Gjergji Kasneci",23,others,likelihood
+2014,Anomaly detection in cyber-physical systems: A formal methods approach,"Austin Jones, Zhaodan Kong, Calin Belta",28,cross,model
+2014,Spark-based anomaly detection over multi-source VMware performance data in real-time,"Mohiuddin Solaimani, Mohammed Iftekhar, Latifur Khan, Bhavani M. Thuraisingham, Joey Burton Ingram",24,fault,cluster
+2014,Assessing the impact of intra-cloud live migration on anomaly detection,"Noor-ul-Hassan Shirazi, Steven Simpson, Angelos K. Marnerides, Michael R. Watson, Andreas Mauthe, David Hutchison",20,ids,n/a
+2014,Analysis of HTTP Requests for Anomaly Detection of Web Attacks,"Mikhail Zolotukhin, Timo Hämäläinen, Tero Kokkonen, Jarmo Siltanen",29,ids,model
+2014,Anomaly detection based on eccentricity analysis,Plamen Angelov,35,cross,likelihood
+2014,Identifying Wrong Links between Datasets by Multi-dimensional Outlier Detection,Heiko Paulheim,25,cross,n/a
+2014,Leveraging SDN for Efficient Anomaly Detection and Mitigation on Legacy Networks,"Kostas Giotis, Georgios Androulidakis, Vasilis Maglaris",39,ids,frequency
+2014,A Novel Technique for Long-Term Anomaly Detection in the Cloud,"Owen Vallis, Jordan Hochenbaum, Arun Kejariwal",69,fault,likelihood
+2014,Spectral anomaly detection using graph-based filtering for wireless sensor networks,"Hilmi Enes Egilmez, Antonio Ortega",34,sense,model
+2014,Scalable distance-based outlier detection over high-volume data streams,"Lei Cao, Di Yang, Qingyang Wang, Yanwei Yu, Jiayuan Wang, Elke A. Rundensteiner",38,cross,similarity
+2014,RS-Forest: A Rapid Density Estimator for Streaming Anomaly Detection,"Ke Wu, Kun Zhang, Wei Fan, Andrea Edwards, Philip S. Yu",30,cross,similarity
+2014,Tackling the Big Data 4 vs for anomaly detection,"José Camacho, Gabriel Maciá-Fernández, Jesús E. Díaz-Verdejo, Pedro Garcia-Teodoro",28,cross,model
+2014,Hashdoop: A MapReduce framework for network anomaly detection,"Romain Fontugne, Johan Mazel, Kensuke Fukuda",33,ids,frequency
+2014,LD-Sketch: A distributed sketching design for accurate and scalable anomaly detection in network data streams,"Qun Huang, Patrick P. C. Lee",21,ids,frequency
+2014,Smart car parking: Temporal clustering and anomaly detection in urban car parking,"Yanxu Zheng, Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami",22,gis,cluster
+2014,Focused clustering and outlier detection in large attributed graphs,"Bryan Perozzi, Leman Akoglu, Patricia Iglesias Sánchez, Emmanuel Müller",90,cross,cluster
+2014,GLAD: group anomaly detection in social media analysis,"Qi Rose Yu, Xinran He, Yan Liu",57,cross,likelihood
+2014,Anomaly Detection and Diagnosis for Automatic Radio Network Verification,"Gabriela F. Ciocarlie, Christopher Connolly, Chih-Chieh Cheng, Ulf Lindqvist, Szabolcs Nováczki, Henning Sanneck, Muhammad Naseer ul Islam",21,ids,cluster
+2014,On Integrated Clustering and Outlier Detection,"Lionel Ott, Linsey Xiaolin Pang, Fabio Tozeto Ramos, Sanjay Chawla",27,cross,cluster
+2014,RoADS: A Road Pavement Monitoring System for Anomaly Detection Using Smart Phones,"Fatjon Seraj, Berend Jan van der Zwaag, Arta Dilo, Tamara Luarasi, Paul J. M. Havinga",34,fault,model
+2014,Anomaly Detection Using Autoencoders with Nonlinear Dimensionality Reduction,"Mayu Sakurada, Takehisa Yairi",58,cross,model
+2014,Unsupervised Anomaly-Based Malware Detection Using Hardware Features,"Adrian Tang, Simha Sethumadhavan, Salvatore J. Stolfo",77,ids,model
+2014,Generalized Outlier Detection with Flexible Kernel Density Estimates,"Erich Schubert, Arthur Zimek, Hans-Peter Kriegel",57,cross,likelihood
+2014,Anomaly Detection Using Replicator Neural Networks Trained on Examples of One Class,"Anh Hoang Dau, Victor Ciesielski, Andy Song",21,cross,model
+2014,Detecting Errors in Numerical Linked Data Using Cross-Checked Outlier Detection,"Daniel Fleischhacker, Heiko Paulheim, Volha Bryl, Johanna Völker, Christian Bizer",35,cross,likelihood
+2014,Robust multivariate autoregression for anomaly detection in dynamic product ratings,"Nikou Günnemann, Stephan Günnemann, Christos Faloutsos",22,cross,likelihood
+2015,Characteristics and classification of outlier detection techniques for wireless sensor networks in harsh environments: a survey,"Nauman Shahid, Ijaz Haider Naqvi, Saad Bin Qaisar",35,sense,n/a
+2015,One-class support vector machines: analysis of outlier detection for wireless sensor networks in harsh environments,"Nauman Shahid, Ijaz Haider Naqvi, Saad Bin Qaisar",21,sense,model
+2015,Improved principal component analysis for anomaly detection: Application to an emergency department,"Fouzi Harrou, Farid Kadri, Sondès Chaabane, Christian Tahon, Ying Sun",32,health,model
+2015,A Survey of Distance and Similarity Measures Used Within Network Intrusion Anomaly Detection,"David J. Weller-Fahy, Brett J. Borghetti, Angela A. Sodemann",46,ids,similarity
+2015,Performance Anomaly Detection and Bottleneck Identification,"Olumuyiwa Ibidunmoye, Francisco Hernández-Rodriguez, Erik Elmroth",53,fault,n/a
+2015,Graph based anomaly detection and description: a survey,"Leman Akoglu, Hanghang Tong, Danai Koutra",352,cross,n/a
+2015,Algorithm for the detection of outliers based on the theory of rough sets,"Francisco Maciá Pérez, José Vicente Berná-Martínez, Alberto Fernández Oliva, Miguel Alfonso Abreu Ortega",24,cross,rule
+2015,An Entropy-Based Network Anomaly Detection Method,"Przemyslaw Berezinski, Bartosz Jasiul, Marcin Szpyrka",41,ids,likelihood
+2015,Anomaly detection using a modified kernel-based tracking in the pantograph-catenary system,"Ilhan Aydin, Mehmet Karaköse, Erhan Akin",22,remote,likelihood
+2015,Multi-scale anomaly detection for high-speed network traffic,"Dingde Jiang, Cheng Yao, Zhengzheng Xu, Wenda Qin",29,ids,model
+2015,"Control variable classification, modeling and anomaly detection in Modbus/TCP SCADA systems","Noam Erez, Avishai Wool",36,fault,likelihood
+2015,A fuzzy anomaly detection system based on hybrid PSO-Kmeans algorithm in content-centric networks,"Amin Karami, Manel Guerrero Zapata",56,cross,cluster
+2015,Anomaly detection in traffic using L1-norm minimization extreme learning machine,"Yibing Wang, Dong Li, Yi Du, Zhisong Pan",21,ids,model
+2015,Contextual anomaly detection framework for big sensor data,"Michael A. Hayes, Miriam A. M. Capretz",36,sense,likelihood
+2015,Online data-driven anomaly detection in autonomous robots,"Eliahu Khalastchi, Meir Kalech, Gal A. Kaminka, Raz Lin",28,fault,likelihood
+2015,Robust support vector data description for outlier detection with noise or uncertain data,"Guijun Chen, Xueying Zhang, Zizhong John Wang, Fenglian Li",35,cross,model
+2015,Principal Component Reconstruction Error for Hyperspectral Anomaly Detection,"James A. Jablonski, Trevor J. Bihl, Kenneth W. Bauer Jr",22,remote,model
+2015,Analysis of network traffic features for anomaly detection,"Félix Iglesias, Tanja Zseby",38,ids,n/a
+2015,Outlier detection and robust normal-curvature estimation in mobile laser scanning 3D point cloud data,"Abdul Nurunnabi, Geoff A. W. West, David Belton",51,remote,likelihood
+2015,Streaming Anomaly Detection Using Randomized Matrix Sketching,"Hao Huang, Shiva Prasad Kasiviswanathan",21,cross,model
+2015,Sensor Anomaly Detection in Wireless Sensor Networks for Healthcare,"Shah Ahsanul Haque, Mustafizur Rahman, Syed Mahfuzul Aziz",28,health,likelihood
+2015,Anomaly Detection Based on Sensor Data in Petroleum Industry Applications,"Luis Martí, Nayat Sánchez Pi, José Manuel Molina, Ana Cristina Bicharra Garcia",26,sense,model
+2015,Multivariate functional outlier detection,"Mia Hubert, Peter J. Rousseeuw, Pieter Segaert",60,cross,likelihood
+2015,"Event detection, tracking, and visualization in Twitter: a mention-anomaly-based approach","Adrien Guille, Cécile Favre",41,cross,frequency
+2015,Robust Linear Spectral Unmixing Using Anomaly Detection,"Yoann Altmann, Steve McLaughlin, Alfred Hero",28,remote,likelihood
+2015,Adaptive Distributed Outlier Detection for WSNs,"Alessandra De Paola, Salvatore Gaglio, Giuseppe Lo Re, Fabrizio Milazzo, Marco Ortolani",31,sense,likelihood
+2015,Online Anomaly Detection in Crowd Scenes via Structure Analysis,"Yuan Yuan, Jianwu Fang, Qi Wang",69,remote,n/a
+2015,Evolving Fuzzy Rules for Anomaly Detection in Data Streams,"Masud Moshtaghi, James C. Bezdek, Christopher Leckie, Shanika Karunasekera, Marimuthu Palaniswami",22,cross,rule
+2015,Collaborative Representation for Hyperspectral Anomaly Detection,"Wei Li, Qian Du",100,remote,model
+2015,Fast Hyperspectral Anomaly Detection via High-Order 2-D Crossing Filter,"Yuan Yuan, Qi Wang, Guokang Zhu",30,remote,model
+2015,Distributed Real-Time Anomaly Detection in Networked Industrial Sensing Systems,"Po-Yu Chen, Shusen Yang, Julie A. McCann",32,sense,similarity
+2015,Wireless Anomaly Detection Based on IEEE 802.11 Behavior Analysis,"Hamid Alipour, Youssif B. Al-Nashif, Pratik Satam, Salim Hariri",24,ids,frequency
+2015,Gaussian Process Regression-Based Video Anomaly Detection and Localization With Hierarchical Feature Representation,"Kai-Wen Cheng, Yie-Tarng Chen, Wen-Hsien Fang",24,remote,likelihood
+2015,Active Hypothesis Testing for Anomaly Detection,"Kobi Cohen, Qing Zhao",22,cross,likelihood
+2015,"Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection","Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, Jörg Sander",68,cross,cluster
+2015,Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection,"Milos Radovanovic, Alexandros Nanopoulos, Mirjana Ivanovic",58,cross,similarity
+2015,Adaptive Hidden Markov Model With Anomaly States for Price Manipulation Detection,"Yi Cao, Yuhua Li, Sonya A. Coleman, Ammar Belatreche, Thomas Martin McGinnity",24,cross,likelihood
+2015,Segment-Based Anomaly Detection with Approximated Sample Covariance Matrix in Wireless Sensor Networks,"Miao Xie, Jiankun Hu, Song Guo",20,sense,likelihood
+2015,Design and Analysis of Multimodel-Based Anomaly Intrusion Detection Systems in Industrial Process Automation,"Chunjie Zhou, Shuang Huang, Naixue Xiong, Shuang-Hua Yang, Huiyun Li, Yuanqing Qin, Xuan Li",31,fault,rule
+2015,"Anomaly-based intrusion detection of jamming attacks, local versus collaborative detection","Alexandros G. Fragkiadakis, Vasilios A. Siris, Nikolaos E. Petroulakis, Apostolos Traganitis",22,ids,likelihood
+2015,Online anomaly detection over Big Data streams,"Laura Rettig, Mourad Khayati, Philippe Cudré-Mauroux, Michal Piórkowski",21,cross,likelihood
+2015,Schema Extraction and Structural Outlier Detection for JSON-based NoSQL Data Stores,"Meike Klettke, Uta Störl, Stefanie Scherzinger",26,others,n/a
+2016,PCA-based multivariate statistical network monitoring for anomaly detection,"José Camacho, Alejandro Pérez-Villegas, Pedro García-Teodoro, Gabriel Maciá-Fernández",24,ids,model
+2016,Exploratory security analytics for anomaly detection,"Fabio Pierazzi, Sara Casolari, Michele Colajanni, Mirco Marchetti",17,ids,likelihood
+2016,"On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study","Guilherme O. Campos, Arthur Zimek, Jörg Sander, Ricardo J. G. B. Campello, Barbora Micenková, Erich Schubert, Ira Assent, Michael E. Houle",68,cross,similarity
+2016,An efficient proactive artificial immune system based anomaly detection and prevention system,"Praneet Saurabh, Bhupendra Verma",21,cross,similarity
+2016,A survey of anomaly detection techniques in financial domain,"Mohiuddin Ahmed, Abdun Naser Mahmood, Md. Rafiqul Islam",52,cross,cluster
+2016,Anomaly detection and identification scheme for VM live migration in cloud infrastructure,"Tian Huang, Yongxin Zhu, Yafei Wu, Stéphane Bressan, Gillian Dobbie",17,fault,similarity
+2016,Outlier detection in healthcare fraud: A case study in the Medicaid dental domain,"Guido van Capelleveen, Mannes Poel, Roland M. Müller, Dallas Thornton, Jos van Hillegersberg",18,fault,frequency
+2016,Seasonal ARMA-based SPC charts for anomaly detection: Application to emergency department systems,"Farid Kadri, Fouzi Harrou, Sondès Chaabane, Ying Sun, Christian Tahon",29,fault,likelihood
+2016,A multi-step outlier-based anomaly detection approach to network-wide traffic,"Monowar H. Bhuyan, D. K. Bhattacharyya, Jugal K. Kalita",37,ids,cluster
+2016,The evaluation of Network Anomaly Detection Systems: Statistical analysis of the UNSW-NB15 data set and the comparison with the KDD99 data set,"Nour Moustafa, Jill Slay",63,ids,n/a
+2016,Real-Time Anomaly Detection Framework for Many-Core Router through Machine-Learning Techniques,"Amey M. Kulkarni, Youngok Pino, Matthew French, Tinoosh Mohsenin",21,ids,model
+2016,A survey of network anomaly detection techniques,"Mohiuddin Ahmed, Abdun Naser Mahmood, Jiankun Hu",113,ids,n/a
+2016,Network anomaly detection using IP flows with Principal Component Analysis and Ant Colony Optimization,"Gilberto Fernandes Jr., Luiz Fernando Carvalho, Joel J. P. C. Rodrigues, Mario Lemes Proença Jr",17,ids,model
+2016,A framework for anomaly detection in maritime trajectory behavior,Po-Ruey Lei,21,gis,n/a
+2016,Tensor-based anomaly detection: An interdisciplinary survey,"Hadi Fanaee-T, João Gama",25,cross,n/a
+2016,A non-parameter outlier detection algorithm based on Natural Neighbor,"Jinlong Huang, Qingsheng Zhu, Lijun Yang, Ji Feng",20,cross,similarity
+2016,A decomposition of the outlier detection problem into a set of supervised learning problems,"H Paulheim, R Meusel",16,cross,model
+2016,Anomaly Detection System in Cloud Environment Using Fuzzy Clustering Based ANN,"N. Pandeeswari, Ganesh Kumar",33,ids,model
+2016,A traffic anomaly detection approach in communication networks for applications of multimedia medical devices,"Dingde Jiang, Zhen Yuan, Peng Zhang, Lei Miao, Ting Zhu",20,ids,model
+2016,Incorporating outlier detection and replacement into a non-parametric framework for movement and distortion correction of diffusion MR images,"Jesper L. R. Andersson, Mark S. Graham, Eniko Zsoldos, Stamatios N. Sotiropoulos",35,health,likelihood
+2016,High-dimensional and large-scale anomaly detection using a linear one-class SVM with deep learning,"Sarah M. Erfani, Sutharshan Rajasegarar, Shanika Karunasekera, Christopher Leckie",87,cross,model
+2016,Combining motion and appearance cues for anomaly detection,"Ying Zhang, Huchuan Lu, Lihe Zhang, Xiang Ruan",40,remote,model
+2016,Video anomaly detection based on locality sensitive hashing filters,"Ying Zhang, Huchuan Lu, Lihe Zhang, Xiang Ruan, Shun Sakai",19,remote,model
+2016,Active Magnetic Anomaly Detection Using Multiple Micro Aerial Vehicles,"Philip M. Dames, Mac Schwager, Daniela Rus, Vijay Kumar",16,gis,likelihood
+2016,A Comparative Study of Anomaly Detection Techniques for Smart City Wireless Sensor Networks,"Victor Garcia-Font, Carles Garrigues, Helena Rifà-Pous",16,sense,n/a
+2016,A spectral-spatial based local summation anomaly detection method for hyperspectral images,"Bo Du, Rui Zhao, Liangpei Zhang, Lefei Zhang",23,remote,model
+2016,Spatial-temporal convolutional neural networks for anomaly detection and localization in crowded scenes,"Shifu Zhou, Wei Shen, Dan Zeng, Mei Fang, Yuanwang Wei, Zhijiang Zhang",35,remote,model
+2016,Hyperspectral Anomaly Detection by Graph Pixel Selection,"Yuan Yuan, Dandan Ma, Qi Wang",24,remote,model
+2016,Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation,"Yang Xu, Zebin Wu, Jun Li, Antonio J. Plaza, Zhihui Wei",47,remote,model
+2016,A Low-Rank and Sparse Matrix Decomposition-Based Mahalanobis Distance Method for Hyperspectral Anomaly Detection,"Yuxiang Zhang, Bo Du, Liangpei Zhang, Shugen Wang",39,remote,model
+2016,A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image,"Xing Zhang, Gongjian Wen, Wei Dai",16,remote,model
+2016,A Novel Cluster Kernel RX Algorithm for Anomaly and Change Detection Using Hyperspectral Images,"Jin Zhou, Chiman Kwan, Bulent Ayhan, Michael T. Eismann",25,remote,cluster
+2016,Outlier Detection for the Evaluation of the Measurement Uncertainty of Environmental Acoustic Noise,"Consolatina Liguori, Alfredo Paolillo, Alessandro Ruggiero, Domenico Russo",15,sense,similarity
+2016,IoT Healthcare Analytics: The Importance of Anomaly Detection,"Arijit Ukil, Soma Bandyopadhyay, Chetanya Puri, Arpan Pal",15,health,n/a
+2016,Anomaly Detection in Automobile Control Network Data with Long Short-Term Memory Networks,"Adrian Taylor, Sylvain Leblanc, Nathalie Japkowicz",18,ids,model
+2016,A Sharper Sense of Self: Probabilistic Reasoning of Program Behaviors for Anomaly Detection with Context Sensitivity,"Kui Xu, Ke Tian, Danfeng Yao, Barbara G. Ryder",16,ids,likelihood
+2016,A Discriminative Framework for Anomaly Detection in Large Videos,"Allison Del Giorno, J. Andrew Bagnell, Martial Hebert",19,remote,likelihood
+2016,Collective Anomaly Detection Based on Long Short-Term Memory Recurrent Neural Networks,"Loïc Bontemps, Van Loi Cao, James McDermott, Nhien-An Le-Khac",18,ids,model
+2016,An Unsupervised Spatiotemporal Graphical Modeling Approach to Anomaly Detection in Distributed CPS,"Chao Liu, Sambuddha Ghosal, Zhanhong Jiang, Soumik Sarkar",16,fault,likelihood
+2016,Holistic features for real-time crowd behaviour anomaly detection,"Mark Marsden, Kevin McGuinness, Suzanne Little, Noel E. O'Connor",15,remote,n/a
+2016,Robust Random Cut Forest Based Anomaly Detection on Streams,"Sudipto Guha, Nina Mishra, Gourav Roy, Okke Schrijvers",29,cross,similarity
+2016,Deep Structured Energy Based Models for Anomaly Detection,"Shuangfei Zhai, Yu Cheng, Weining Lu, Zhongfei Zhang",32,cross,likelihood
+2016,Multimodal execution monitoring for anomaly detection during robot manipulation,"Daehyung Park, Zackory M. Erickson, Tapomayukh Bhattacharjee, Charles C. Kemp",16,fault,likelihood
+2016,Anomaly detection in hyperspectral images through spectral unmixing and low rank decomposition,"Ying Qu, Rui Guo, Wei Wang, Hairong Qi, Bulent Ayhan, Chiman Kwan, Steven Vance",19,remote,model
+2016,Entity Embedding-Based Anomaly Detection for Heterogeneous Categorical Events,"Ting Chen, Lu An Tang, Yizhou Sun, Zhengzhang Chen, Kai Zhang",16,cross,likelihood
+2016,Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs,"Emaad A. Manzoor, Sadegh M. Milajerdi, Leman Akoglu",16,cross,cluster
+2016,"ATLANTIC: A framework for anomaly traffic detection, classification, and mitigation in SDN","Anderson Santos da Silva, Juliano Araujo Wickboldt, Lisandro Zambenedetti Granville, Alberto E. Schaeffer Filho",18,ids,n/a
+2016,Real-Time Anomaly Detection for Streaming Analytics,"Subutai Ahmad, Scott Purdy",15,cross,model
+2016,LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection,"Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, Gautam Shroff",36,fault,model
+2016,Anomaly Detection in Video Using Predictive Convolutional Long Short-Term Memory Networks,"Jefferson Ryan Medel, Andreas E. Savakis",19,remote,model
+2017,Modeling network traffic for traffic matrix estimation and anomaly detection based on Bayesian network in cloud computing networks,"Laisen Nie, Dingde Jiang, Zhihan Lv",10,ids,likelihood
+2017,A statistical infinite feature cascade-based approach to anomaly detection for dynamic social networks,"Yasser Yasami, Farshad Safaei",10,cross,likelihood
+2017,BGP Anomaly Detection Techniques: A Survey,"Bahaa Al-Musawi, Philip Branch, Grenville Armitage",23,ids,n/a
+2017,CLAPP: A self constructing feature clustering approach for anomaly detection,"Gunupudi Rajesh Kumar, Nimmala Mangathayaru, Gugulothu Narsimha, Suresh Reddy Gali",16,ids,cluster
+2017,Detecting zero-day attacks using context-aware anomaly detection at the application-layer,"Patrick Düssel, Christian Gehl, Ulrich Flegel, Sven Dietrich, Michael Meier",11,ids,similarity
+2017,Unsupervised real-time anomaly detection for streaming data,"Subutai Ahmad, Alexander Lavin, Scott Purdy, Zuha Agha",29,cross,model
+2017,Learning deep event models for crowd anomaly detection,"Yachuang Feng, Yuan Yuan, Xiaoqiang Lu",18,remote,likelihood
+2017,Spatial anomaly detection in sensor networks using neighborhood information,"Hedde H. W. J. Bosman, Giovanni Iacca, Arturo Tejada, Heinrich J. Wörtche, Antonio Liotta",20,sense,similarity
+2017,Reducing false positives of network anomaly detection by local adaptive multivariate smoothing,"Martin Grill, Tomás Pevný, Martin Rehák",10,ids,n/a
+2017,Two-tier network anomaly detection model: a machine learning approach,"Hamed Haddad Pajouh, Gholamhossein Dastghaibyfard, Sattar Hashemi",15,ids,likelihood
+2017,Anomaly detection in earth dam and levee passive seismic data using support vector machines and automatic feature selection,"Wendy Fisher, Tracy Camp, Valeria V. Krzhizhanovskaya",12,fault,model
+2017,Transferred Deep Learning for Anomaly Detection in Hyperspectral Imagery,"Wei Li, Guodong Wu, Qian Du",12,remote,model
+2017,"Towards online and personalized daily activity recognition, habit modeling, and anomaly detection for the solitary elderly through unobtrusive sensing","Lei Meng, Chunyan Miao, Cyril Leung",13,health,likelihood
+2017,KDE based outlier detection on distributed data streams in multimedia network,"Zhigao Zheng, Hwa-Young Jeong, Tao Huang, Jiangbo Shu",11,cross,likelihood
+2017,Social network model for crowd anomaly detection and localization,"Rima Chaker, Zaher Al Aghbari, Imran N. Junejo",15,remote,similarity
+2017,DBSAFE - An Anomaly Detection System to Protect Databases From Exfiltration Attempts,"Asmaa Sallam, Elisa Bertino, Syed Rafiul Hussain, David Landers, Robert Michael Lefler, Donald Steiner",15,ids,likelihood
+2017,Towards an Energy-Efficient Anomaly-Based Intrusion Detection Engine for Embedded Systems,"Eduardo Viegas, Altair Olivo Santin, Andre Luiz Pereira de Franca, Ricardo P. Jasinski, Volnei A. Pedroni, Luiz S. Oliveira",17,ids,n/a
+2017,Botnet Detection Based on Anomaly and Community Detection,"Jing Wang, Ioannis Ch. Paschalidis",12,ids,likelihood
+2017,Hyperspectral Anomaly Detection With Attribute and Edge-Preserving Filters,"Xudong Kang, Xiangping Zhang, Shutao Li, Kenli Li, Jun Li, Jon Atli Benediktsson",14,remote,model
+2017,Hyperspectral Anomaly Detection via a Sparsity Score Estimation Framework,"Rui Zhao, Bo Du, Liangpei Zhang",11,remote,model
+2017,Big Data Analytics for User-Activity Analysis and User-Anomaly Detection in Mobile Wireless Network,"Md. Salik Parwez, Danda B. Rawat, Moses Garuba",13,sense,n/a
+2017,SafeDrive: Online Driving Anomaly Detection From Large-Scale Vehicle Data,"Mingming Zhang, Chao Chen, Tianyu Wo, Tao Xie, Md. Zakirul Alam Bhuiyan, Xuelian Lin",10,sense,likelihood
+2017,Deep-Cascade: Cascading 3D Deep Neural Networks for Fast Anomaly Detection and Localization in Crowded Scenes,"Mohammad Sabokrou, Mohsen Fayyaz, Mahmood Fathy, Reinhard Klette",20,remote,model
+2017,Anomaly Detection in Traffic Scenes via Spatial-Aware Motion Reconstruction,"Yuan Yuan, Dong Wang, Qi Wang",11,remote,likelihood
+2017,A Joint Indoor WLAN Localization and Outlier Detection Scheme Using LASSO and Elastic-Net Optimization Techniques,"Ali Khalajmehrabadi, Nikolaos Gatsis, Daniel J. Pack, David Akopian",11,sense,likelihood
+2017,Randomized Robust Subspace Recovery and Outlier Detection for High Dimensional Data Matrices,"Mostafa Rahmani, George K. Atia",36,cross,model
+2017,A visual-numeric approach to clustering and anomaly detection for trajectory data,"Dheeraj Kumar, James C. Bezdek, Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami",13,gis,cluster
+2017,"Field classification, modeling and anomaly detection in unknown CAN bus networks","Moti Markovitz, Avishai Wool",12,fault,similarity
+2017,DOES multispectral / hyperspectral pansharpening improve the performance of anomaly detection?,"Ying Qu, Hairong Qi, Bulent Ayhan, Chiman Kwan, Richard Kidd",17,remote,n/a
+2017,Radar: Residual Analysis for Anomaly Detection in Attributed Networks,"Jundong Li, Harsh Dani, Xia Hu, Huan Liu",10,cross,model
+2017,Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery,"Thomas Schlegl, Philipp Seeböck, Sebastian M. Waldstein, Ursula Schmidt-Erfurth, Georg Langs",52,health,model
+2017,Anomaly Detection with Robust Deep Autoencoders,"Chong Zhou, Randy C. Paffenroth",11,cross,model
+2017,Outlier Detection with Autoencoder Ensembles,"Jinghui Chen, Saket Sathe, Charu C. Aggarwal, Deepak S. Turaga",13,cross,model
