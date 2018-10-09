@@ -1,4 +1,4 @@
-## Anomaly Detection -- A Meta Review
+## Anomaly Detection - A Meta Review
 
 This repository hosts the full list of papers used in "Anomaly Detection - A Meta Review" by Sivam Pasupathipillai and Emanuele Della Valle.
 
