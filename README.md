@@ -35,4 +35,4 @@ Each paper is categorized according to the following codes:
 
 For more information contact:
 
-Sivam Pasupathipillai - s.pasupathipillai@.unitn.it
+Sivam Pasupathipillai - s.pasupathipillai@unitn.it
