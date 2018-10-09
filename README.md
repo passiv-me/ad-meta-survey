@@ -3,12 +3,12 @@
 This repository hosts the full list of papers used in 'Anomaly Detection -- A Meta Review' by Sivam Pasupathipillai and Emanuele Della Valle.
 
 ## Field description
-Year - publication year
-Title - paper title
-Authors - paper authors
-Citations - number of citations @ July 2018
-Domain - application domain (see below)
-Definition - anomaly definition (see below)
+- Year: publication year
+- Title: paper title
+- Authors: paper authors
+- Citations: number of citations @ July 2018
+- Domain: application domain (see below)
+- Definition: anomaly definition (see below)
 
 ### Application domain
 Each paper is categorized according to the following codes:
