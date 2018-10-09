@@ -12,24 +12,26 @@ This repository hosts the full list of papers used in 'Anomaly Detection -- A Me
 
 ### Application domain
 Each paper is categorized according to the following codes:
-"cross" -- Cross-domain
-"ids" -- Intrusion detection and network security
-"remote" -- Video and remote sensing
-"sense" -- Sensor networks
-"fault" -- Fault detection
-"gis" -- GIS
-"health" -- e-Health
-"others" -- Others
+
+- "cross" -- Cross-domain
+- "ids" -- Intrusion detection and network security
+- "remote" -- Video and remote sensing
+- "sense" -- Sensor networks
+- "fault" -- Fault detection
+- "gis" -- GIS
+- "health" -- e-Health
+- "others" -- Others
 
 ### Anomaly definition
 Each paper is categorized according to the following codes:
-"likelihood" -- Likelihood anomaly
-"model" -- Model-based anomaly
-"similarity" -- Similarity-based anomaly
-"cluster" -- Cluster-based anomaly
-"frequency" -- Frequency-based anomaly
-"rule" -- Rule-based anomaly
-"n/a" -- No specific definition
+
+- "likelihood" -- Likelihood anomaly
+- "model" -- Model-based anomaly
+- "similarity" -- Similarity-based anomaly
+- "cluster" -- Cluster-based anomaly
+- "frequency" -- Frequency-based anomaly
+- "rule" -- Rule-based anomaly
+- "n/a" -- No specific definition
 
 For more information contact:
 
