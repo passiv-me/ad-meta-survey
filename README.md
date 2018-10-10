@@ -6,7 +6,7 @@ This repository hosts the full list of papers used in "Anomaly Detection - A Met
 - Year: publication year
 - Title: paper title
 - Authors: paper authors
-- Citations: number of citations @ July 2018
+- CitationsJuly2018: number of citations @ July 2018
 - Domain: application domain (see below)
 - Definition: anomaly definition (see below)
 
