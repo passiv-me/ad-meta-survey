@@ -1,17 +1,17 @@
 ## Anomaly Detection - A Meta Review
 
-This repository hosts the full list of papers used in "A Methodological Survey of Anomaly Detection" by Sivam Pasupathipillai and Emanuele Della Valle.
+This repository hosts the full list of papers surveyed in the "A Methodological Survey of Anomaly Detection" paper by Sivam Pasupathipillai and Emanuele Della Valle.
 
-## Field description
+## Data schema
 - Year: publication year
 - Title: paper title
 - Authors: paper authors
-- CitationsJuly2018: number of citations @ July 2018
+- CitationsJuly2018: number of citations as of July 2018
 - Domain: application domain (see below)
 - Definition: anomaly definition (see below)
 
 ### Application domain
-Each paper is categorized according to the following codes:
+Each paper is categorized into one of the following domains:
 
 - "cross" -- Cross-domain
 - "ids" -- Intrusion detection and network security
@@ -23,7 +23,7 @@ Each paper is categorized according to the following codes:
 - "others" -- Others
 
 ### Anomaly definition
-Each paper is categorized according to the following codes:
+Each paper is categorized into one of the following classes:
 
 - "likelihood" -- Likelihood anomaly
 - "model" -- Model-based anomaly
