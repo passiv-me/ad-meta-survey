@@ -1,6 +1,6 @@
 ## Anomaly Detection - A Meta Review
 
-This repository hosts the full list of papers used in "Anomaly Detection - A Meta Review" by Sivam Pasupathipillai and Emanuele Della Valle.
+This repository hosts the full list of papers used in "A Methodological Survey of Anomaly Detection" by Sivam Pasupathipillai and Emanuele Della Valle.
 
 ## Field description
 - Year: publication year
@@ -33,6 +33,4 @@ Each paper is categorized according to the following codes:
 - "rule" -- Rule-based anomaly
 - "n/a" -- No specific definition
 
-For more information contact:
-
-Sivam Pasupathipillai - s.pasupathipillai@unitn.it
+For more information contact: Sivam Pasupathipillai - s.pasupathipillai@unitn.it
